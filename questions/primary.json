@@ -2,221 +2,221 @@
   {
     "question_id": "P_Q1",
     "interest_phase": "Curiosity Activation",
-    "question": "What do you enjoy doing the most when you have free time?",
+    "question": "What makes you most curious to learn more?",
     "options": [
-      { "option_code": "Opt_1", "text": "Playing with building blocks or puzzles", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Drawing, coloring, or making crafts", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Playing shop or pretending to sell things", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Learning about animals or how the body works", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      { "option_code": "Opt_1", "text": "How machines and gadgets work", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Drawing, coloring, or making things", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Running a small game or pretend shop", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Learning how the body stays healthy", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q2",
     "interest_phase": "Curiosity Activation",
-    "question": "If you get a new toy, what do you do first?",
+    "question": "Which book or video do you like the most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Check how it works or take it apart", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Make up a story or game using it", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Think about how to trade or share it", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "I lose interest quickly", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Science or space videos", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Stories, cartoons, or music videos", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Videos about games, money, or planning", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Videos about animals or health", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q3",
     "interest_phase": "Engagement Sustainment",
-    "question": "Which school activity do you like to spend more time on?",
+    "question": "Which activity can you do for a long time without getting bored?",
     "options": [
-      { "option_code": "Opt_1", "text": "Maths or science activities", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Drawing, singing, or acting", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Helping the teacher organize things", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Playing sports or learning about health", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      { "option_code": "Opt_1", "text": "Solving puzzles or math games", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Drawing, crafting, or singing", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Organizing games or keeping scores", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Sports, exercise, or outdoor play", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q4",
     "interest_phase": "Engagement Sustainment",
-    "question": "When a task is a little hard, what do you usually do?",
+    "question": "What do you like practicing again and again?",
     "options": [
-      { "option_code": "Opt_1", "text": "Try again until I understand it", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Try a different creative way", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Ask friends and work together", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Stop and move on", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Building or experimenting", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Art, music, or acting", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Planning or leading group activities", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Games that keep me active", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q5",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which one sounds the most fun to learn?",
+    "interest_phase": "Engagement Sustainment",
+    "question": "In a group project, what role do you enjoy most?",
     "options": [
-      { "option_code": "Opt_1", "text": "How machines or computers work", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "How to paint, dance, or make music", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "How to help sick people feel better", "domains": { "Health, Medicine & Life Sciences": 3 } },
-      { "option_code": "Opt_4", "text": "I don’t really care", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Solving the tricky parts", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Sharing creative ideas", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Making plans and decisions", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Helping everyone feel good and safe", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q6",
     "interest_phase": "Personal Relevance Formation",
-    "question": "If you could choose a class, which one would you pick?",
+    "question": "Which skill feels useful in your daily life?",
     "options": [
-      { "option_code": "Opt_1", "text": "Robots or science games", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Art, music, or drama", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Running a small class shop", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Sports and fitness", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      { "option_code": "Opt_1", "text": "Thinking clearly to solve problems", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Explaining ideas with drawings or words", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Managing time or pocket money", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Taking care of health and habits", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q7",
-    "interest_phase": "Curiosity Activation",
-    "question": "What do you like watching or reading about?",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What do you enjoy talking about at home?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science shows or experiments", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Cartoons and stories", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "People who start new ideas or shops", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Animals and nature", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      { "option_code": "Opt_1", "text": "Cool facts or experiments", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Stories, drawings, or songs", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Games where I plan or organize", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Sports, food, or staying healthy", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q8",
-    "interest_phase": "Engagement Sustainment",
-    "question": "What makes you feel proud of your work?",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity makes you feel proud?",
     "options": [
-      { "option_code": "Opt_1", "text": "Solving a tricky problem", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Making something beautiful", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Leading a group activity", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Helping someone feel better", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      { "option_code": "Opt_1", "text": "Figuring something out on my own", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creating something beautiful", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Leading or helping a group succeed", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Getting stronger or healthier", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q9",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "Which game would you choose?",
+    "interest_phase": "Curiosity Activation",
+    "question": "What kind of school project sounds the most fun?",
     "options": [
-      { "option_code": "Opt_1", "text": "Puzzle or logic game", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Drawing or story game", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Buying and selling game", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Doctor or animal care game", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      { "option_code": "Opt_1", "text": "Building or testing something", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Making art or performing", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Running a pretend shop or event", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Learning about food or exercise", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q10",
     "interest_phase": "Engagement Sustainment",
-    "question": "What do you like practicing again and again?",
+    "question": "Which task do you try to finish even when it is hard?",
     "options": [
-      { "option_code": "Opt_1", "text": "Math or science problems", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Art or music skills", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Team games or leadership roles", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Nothing in particular", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Math or logic problems", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Improving a drawing or story", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Making a plan work well", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Physical challenges or sports", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q11",
-    "interest_phase": "Curiosity Activation",
-    "question": "What kind of questions do you ask most?",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What do you like doing even without being asked?",
     "options": [
-      { "option_code": "Opt_1", "text": "Why and how things work", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Can I make this look cooler?", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "How can we do this better together?", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Why people get sick or healthy", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      { "option_code": "Opt_1", "text": "Learning new facts or solving puzzles", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Drawing, singing, or writing stories", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Organizing games or activities", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Staying active or learning about health", "domains": { "Health, Medicine & Life Sciences": 4 } }
     ]
   },
   {
     "question_id": "P_Q12",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "If you help a friend, how do you like to help?",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which activity do you keep getting better at because you enjoy it?",
     "options": [
-      { "option_code": "Opt_1", "text": "Explaining homework", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Making them smile or laugh", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Organizing the group", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Taking care of them", "domains": { "Health, Medicine & Life Sciences": 2 } }
+      { "option_code": "Opt_1", "text": "Science or math games", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Art, music, or acting", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Leading or planning", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Sports or healthy routines", "domains": { "Health, Medicine & Life Sciences": 4 } }
     ]
   },
   {
     "question_id": "P_Q13",
-    "interest_phase": "Curiosity Activation",
-    "question": "What would you like to build?",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which learning helps you outside school?",
     "options": [
-      { "option_code": "Opt_1", "text": "A robot or model", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "A painting or craft", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "A small shop game", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "I don’t like building things", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Logical thinking", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Expressing ideas clearly", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Making good decisions", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Taking care of your body", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q14",
-    "interest_phase": "Engagement Sustainment",
-    "question": "What keeps you interested the longest?",
+    "interest_phase": "Curiosity Activation",
+    "question": "What kind of game do you enjoy most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Figuring things out", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Being creative", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Working with people", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Helping living things", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      { "option_code": "Opt_1", "text": "Puzzle or building games", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creative or music games", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Games where you manage or plan", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Active or sports games", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q15",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "What would you like to be really good at?",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which activity helps you stay focused?",
     "options": [
-      { "option_code": "Opt_1", "text": "Solving problems", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Creating new things", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Leading and organizing", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Caring for others", "domains": { "Health, Medicine & Life Sciences": 3 } }
+      { "option_code": "Opt_1", "text": "Solving problems step by step", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creating or performing", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Planning tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Exercise or movement", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q16",
-    "interest_phase": "Curiosity Activation",
-    "question": "When you see something new in class, what do you want to do?",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which skill would you like to use when you grow up?",
     "options": [
-      { "option_code": "Opt_1", "text": "Ask how it works", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Draw it or make a story about it", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Think about how to share or trade it", "domains": { "Business, Economics & Entrepreneurship": 2 } },
-      { "option_code": "Opt_4", "text": "Not very interested", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Solving problems", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Creating and expressing ideas", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Leading or managing", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Helping people stay healthy", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q17",
-    "interest_phase": "Engagement Sustainment",
-    "question": "Which activity can you do for a long time without getting bored?",
+    "interest_phase": "Curiosity Activation",
+    "question": "What topic do you like learning about the most?",
     "options": [
-      { "option_code": "Opt_1", "text": "Solving puzzles or number games", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Painting, singing, or dancing", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Playing team games and helping everyone", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Resting or doing nothing", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Science and technology", "domains": { "STEM": 2 } },
+      { "option_code": "Opt_2", "text": "Art and music", "domains": { "Arts & Creative Expression": 2 } },
+      { "option_code": "Opt_3", "text": "Money, games, or planning", "domains": { "Business, Economics & Entrepreneurship": 2 } },
+      { "option_code": "Opt_4", "text": "Animals and the human body", "domains": { "Health, Medicine & Life Sciences": 2 } }
     ]
   },
   {
     "question_id": "P_Q18",
-    "interest_phase": "Personal Relevance Formation",
-    "question": "If a friend is hurt or sick, what do you like to do?",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which activity do you keep improving at?",
     "options": [
-      { "option_code": "Opt_1", "text": "Learn what happened and explain it", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Make a card or cheer them up", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "Take care of them or get help", "domains": { "Health, Medicine & Life Sciences": 2 } },
-      { "option_code": "Opt_4", "text": "I don’t know what to do", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Problem solving", "domains": { "STEM": 3 } },
+      { "option_code": "Opt_2", "text": "Creative work", "domains": { "Arts & Creative Expression": 3 } },
+      { "option_code": "Opt_3", "text": "Planning or organizing", "domains": { "Business, Economics & Entrepreneurship": 3 } },
+      { "option_code": "Opt_4", "text": "Fitness or health habits", "domains": { "Health, Medicine & Life Sciences": 3 } }
     ]
   },
   {
     "question_id": "P_Q19",
-    "interest_phase": "Curiosity Activation",
-    "question": "Which show or video do you enjoy the most?",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "If you could become really good at one thing, what would you choose?",
     "options": [
-      { "option_code": "Opt_1", "text": "Science experiments or how-things-work videos", "domains": { "STEM": 2 } },
-      { "option_code": "Opt_2", "text": "Cartoons, drawing, or music videos", "domains": { "Arts & Creative Expression": 2 } },
-      { "option_code": "Opt_3", "text": "People helping animals or nature", "domains": { "Health, Medicine & Life Sciences": 2 } },
-      { "option_code": "Opt_4", "text": "I don’t watch much", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Science or math", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Art, music, or acting", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Leading and organizing", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Health, sports, or fitness", "domains": { "Health, Medicine & Life Sciences": 4 } }
     ]
   },
   {
     "question_id": "P_Q20",
-    "interest_phase": "Engagement Sustainment",
-    "question": "What do you like doing in group activities?",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which activity would you choose even without rewards?",
     "options": [
-      { "option_code": "Opt_1", "text": "Figuring out answers together", "domains": { "STEM": 3 } },
-      { "option_code": "Opt_2", "text": "Making posters or decorations", "domains": { "Arts & Creative Expression": 3 } },
-      { "option_code": "Opt_3", "text": "Leading the group or planning tasks", "domains": { "Business, Economics & Entrepreneurship": 3 } },
-      { "option_code": "Opt_4", "text": "Watching quietly", "domains": { "Neutral": 0 } }
+      { "option_code": "Opt_1", "text": "Learning and problem solving", "domains": { "STEM": 4 } },
+      { "option_code": "Opt_2", "text": "Creating and performing", "domains": { "Arts & Creative Expression": 4 } },
+      { "option_code": "Opt_3", "text": "Planning and leading", "domains": { "Business, Economics & Entrepreneurship": 4 } },
+      { "option_code": "Opt_4", "text": "Staying active and healthy", "domains": { "Health, Medicine & Life Sciences": 4 } }
     ]
   }
 ]
