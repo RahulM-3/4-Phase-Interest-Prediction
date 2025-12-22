@@ -1,0 +1,527 @@
+[
+  {
+    "question_id": "PRIM_Q14",
+    "interest_phase": "Engagement Sustainment",
+    "question": "In group work, what role do you enjoy?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone is okay",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Organizing tasks",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Sharing creative ideas",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Solving problems for the group",
+        "domains": {
+          "STEM": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q16",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What do you enjoy explaining to others?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How things work",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Healthy habits or safety rules",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Plans or projects",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Stories or ideas you made",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q21",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What do you keep practicing even when it is hard?",
+    "options": [
+      {
+        "option_code": "Opt_3",
+        "text": "Planning or leadership skills",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Physical or care skills",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative skills",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Math or logic skills",
+        "domains": {
+          "STEM": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q6",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you play pretend, who are you most often?",
+    "options": [
+      {
+        "option_code": "Opt_3",
+        "text": "Shop owner or leader",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Scientist or inventor",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Artist or storyteller",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Doctor or helper",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q28",
+    "interest_phase": "Curiosity Activation",
+    "question": "When exploring outside, what do you enjoy most?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Being careful and healthy",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Finding things others might need",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Discovering plants or animals",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Drawing or making a story",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q18",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of activity makes you feel proud?",
+    "options": [
+      {
+        "option_code": "Opt_3",
+        "text": "Leading or planning",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Solving a tricky problem",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making something creative",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping someone feel better",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q20",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "If you had free time every day, what would you choose?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Playing or exercising",
+        "domains": {
+          "Health, Medicine & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making art or music",
+        "domains": {
+          "Arts & Creative Expression": 3
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Learning new experiments or facts",
+        "domains": {
+          "STEM": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Starting a small project",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q12",
+    "interest_phase": "Engagement Sustainment",
+    "question": "During class activities, what helps you focus the most?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Taking breaks to feel good",
+        "domains": {
+          "Health, Medicine & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Finding answers and solving problems",
+        "domains": {
+          "STEM": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Completing goals or tasks",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Using colors, acting, or drawing",
+        "domains": {
+          "Arts & Creative Expression": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q7",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you see numbers, what do you think?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Using them to track health or habits",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Solving them like puzzles",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Using them to count money",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Using them in patterns or art",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q30",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What would you like to be known for as you grow?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Care and well-being",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Curiosity and problem-solving",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leadership and ideas",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creativity and expression",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q9",
+    "interest_phase": "Curiosity Activation",
+    "question": "When exploring outside, what interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_2",
+        "text": "Making sketches or stories about it",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Finding useful resources",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Staying safe while exploring",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Discovering plants or animals",
+        "domains": {
+          "STEM": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q3",
+    "interest_phase": "Curiosity Activation",
+    "question": "When something breaks at home, what interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_2",
+        "text": "Turning it into something creative",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Thinking if it can be reused or sold",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Finding out why it stopped working",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure no one gets hurt",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q22",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of books or videos do you choose on your own?",
+    "options": [
+      {
+        "option_code": "Opt_2",
+        "text": "Art or stories",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Science or technology",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health or nature topics",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business or success stories",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you see a new toy you have never used, what do you do first?",
+    "options": [
+      {
+        "option_code": "Opt_4",
+        "text": "Check if it is safe to play with",
+        "domains": {
+          "Health, Medicine & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Open it to see how it works",
+        "domains": {
+          "STEM": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Use it to make up a story or game",
+        "domains": {
+          "Arts & Creative Expression": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Think about how people might buy or trade it",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q24",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of club would you most enjoy?",
+    "options": [
+      {
+        "option_code": "Opt_2",
+        "text": "Art or drama",
+        "domains": {
+          "Arts & Creative Expression": 4
+        }
+      },
+      {
+        "option_code": "Opt_1",
+        "text": "Science or robotics",
+        "domains": {
+          "STEM": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sports or wellness",
+        "domains": {
+          "Health, Medicine & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business or leadership",
+        "domains": {
+          "Business, Economics & Entrepreneurship": 4
+        }
+      }
+    ]
+  }
+]
