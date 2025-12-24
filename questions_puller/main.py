@@ -43,14 +43,26 @@ def compute_phase_counts(age_group, total_q=15):
 
 def pull_questions(age_group, total_q=15):
     questions = load_questions(age_group)
-    phase_counts = compute_phase_counts(age_group, total_q)
+    phase_sequence = PHASE_SEQUENCES[age_group]
+
+    phase_pools = defaultdict(list)
+    for q in questions:
+        phase_pools[q["interest_phase"]].append(q)
+
+    for phase in phase_pools:
+        random.shuffle(phase_pools[phase])
 
     selected = []
-    for phase, count in phase_counts.items():
-        pool = [q for q in questions if q["interest_phase"] == phase]
-        selected.extend(random.sample(pool, count))
 
-    random.shuffle(selected)
+    phase_used_count = Counter()
+
+    for phase in phase_sequence:
+        if phase_used_count[phase] >= len(phase_pools[phase]):
+            raise ValueError(f"Not enough questions for phase: {phase}")
+
+        selected.append(phase_pools[phase][phase_used_count[phase]])
+        phase_used_count[phase] += 1
+
     return selected
 
 def analyze_questions(selected_questions):
@@ -125,7 +137,7 @@ def analyze_questions(selected_questions):
         "redundancy_risk_detected": redundancy_risk
     }
 
-age_group = "primary"  # primary / secondary / highered / lifelong
+age_group = "highered"  # primary / secondary / highered / lifelong
 
 selected = pull_questions(age_group)
 save_pulled_questions(selected)
