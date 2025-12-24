@@ -1,70 +1,110 @@
-import pandas as pd
+# ml_prediction.py
 import numpy as np
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.multioutput import MultiOutputClassifier
+import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
+from sklearn.multioutput import MultiOutputClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, f1_score
+import matplotlib.pyplot as plt
 
-data = pd.read_csv("4PI-ML/dataset/data.csv")
+# =========================
+# CONFIGURATION
+# =========================
+domains = ["STEM", "Business, Economics & Entrepreneurship", "Arts & Creative Expression", "Health, Medicine & Life Sciences"]
+phases = ["Curiosity Activation", "Engagement Sustainment",
+          "Personal Relevance Formation", "Passion-Driven Mastery"]
+phase_weights = {
+    "Curiosity Activation": 1,
+    "Engagement Sustainment": 2,
+    "Personal Relevance Formation": 3,
+    "Passion-Driven Mastery": 4
+}
+NUM_DOMAINS = len(domains)
+NUM_PHASES = len(phases)
 
-question_cols = [f"Q{i}" for i in range(1, 16)]
-agg_cols = [col for col in data.columns if "_" in col]
-domain_targets = ['STEM', 'Arts', 'Business', 'Health']
-phase_order = ['CA', 'ES', 'PR', 'PM']
+# =========================
+# LOAD DATASET
+# =========================
+df = pd.read_csv("4PI-ML/dataset/data.csv")
+X = df.iloc[:, :NUM_DOMAINS*NUM_PHASES].values
+y = df.iloc[:, NUM_DOMAINS*NUM_PHASES:].values
 
-ohe = OneHotEncoder(sparse_output=False)
-X_questions = ohe.fit_transform(data[question_cols])
-X_agg = data[agg_cols].values
-X = np.hstack([X_questions, X_agg])
+# =========================
+# TRAIN-TEST SPLIT
+# =========================
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-y = pd.DataFrame()
-for domain in domain_targets:
-    phase_cols = [f"{domain}_{p}" for p in phase_order]
-    y[domain] = data[phase_cols].idxmax(axis=1).str.split('_').str[1]
+# =========================
+# MODEL DEFINITION
+# =========================
+models = {
+    "LogisticRegression": MultiOutputClassifier(LogisticRegression(max_iter=500)),
+    "RandomForest": MultiOutputClassifier(RandomForestClassifier(n_estimators=200))
+}
 
-le_dict = {}
-y_encoded = pd.DataFrame()
-for col in y.columns:
-    le = LabelEncoder()
-    y_encoded[col] = le.fit_transform(y[col])
-    le_dict[col] = le
+# =========================
+# TRAIN & COMPARE
+# =========================
+results = {}
+for name, model in models.items():
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    acc = accuracy_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred, average="micro")
+    results[name] = {"accuracy": acc, "f1": f1}
+    print(f"{name}: Accuracy={acc:.3f}, F1={f1:.3f}")
 
-X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42)
+best_model_name = max(results, key=lambda x: results[x]["f1"])
+best_model = models[best_model_name]
+print(f"\nBest model selected: {best_model_name}")
 
-rf = RandomForestClassifier(n_estimators=100, random_state=42)
-multi_rf = MultiOutputClassifier(rf)
-multi_rf.fit(X_train, y_train)
+# =========================
+# FUNCTION TO PREDICT USER RECORD
+# =========================
+def answers_to_features(answers):
+    feature_vector = np.zeros(NUM_DOMAINS * NUM_PHASES)
+    for domain_choice, phase_choice in answers:
+        feature_vector[phase_choice * NUM_DOMAINS + domain_choice] += phase_weights[phases[phase_choice]]
+    return feature_vector.reshape(1, -1)
 
-print("\nModel Accuracy per Domain:")
-for idx, domain in enumerate(domain_targets):
-    y_pred = multi_rf.estimators_[idx].predict(X_test)
-    acc = accuracy_score(y_test[domain], y_pred)
-    print(f"{domain}: {acc:.2f}")
+def predict_user(answers):
+    features = answers_to_features(answers)
+    y_pred_prob = best_model.predict_proba(features)
+    scores = np.array([p[:,1] for p in y_pred_prob]).flatten()
+    return dict(zip(domains, scores))
 
-from simulate_user import simulate_user 
-sim_user_record = simulate_user()
-sim_answers = sim_user_record[1:16]
-sim_df = pd.DataFrame([sim_answers], columns=question_cols)
+# =========================
+# RADAR CHART & EXPLANATION
+# =========================
+def plot_radar_chart(scores, labels, title="Domain Prediction"):
+    angles = np.linspace(0, 2 * np.pi, len(labels), endpoint=False).tolist()
+    scores = np.concatenate((list(scores), [scores[0]]))
+    angles += angles[:1]
+    
+    fig, ax = plt.subplots(figsize=(6,6), subplot_kw=dict(polar=True))
+    ax.plot(angles, scores, 'o-', linewidth=2)
+    ax.fill(angles, scores, alpha=0.25)
+    ax.set_thetagrids(np.degrees(angles[:-1]), labels)
+    ax.set_ylim(0,1)
+    ax.set_title(title)
+    plt.savefig("4PI-ML/result.png")
+    plt.close()
 
-X_sim_questions = ohe.transform(sim_df[question_cols])
+def explain_prediction(scores, labels):
+    explanation = sorted(zip(labels, scores), key=lambda x: x[1], reverse=True)
+    print("\nSorting Domains (High -> Low):")
+    for domain, score in explanation:
+        print(f"{domain}: {score:.2f}")
 
-X_sim_agg = np.zeros((1, len(agg_cols)))
-X_sim = np.hstack([X_sim_questions, X_sim_agg])
+# =========================
+# EXAMPLE USER RECORD
+# =========================
+from simulate_user import real_user_response, simulate_user_response
 
-prob_dict = {}
-for idx, domain in enumerate(domain_targets):
-    clf = multi_rf.estimators_[idx]
-    probs = clf.predict_proba(X_sim)
-    phase_labels = le_dict[domain].inverse_transform(np.arange(probs.shape[1]))
-    prob_df = pd.DataFrame(probs, columns=phase_labels, index=[sim_user_record[0]])
-    prob_dict[domain] = prob_df
+record = real_user_response(4)
+my_prediction = predict_user(record[1:])
+print(f"\nPredicted domain scores for {record[0]}: ", my_prediction)
 
-print("\nSimulated User - Phase Probabilities per Domain:")
-for domain, df in prob_dict.items():
-    print(f"\nDomain: {domain}")
-    print(df)
-
-pred_phase = {domain: df.idxmax(axis=1).iloc[0] for domain, df in prob_dict.items()}
-print("\nSimulated User - Predicted Phase per Domain:")
-print(pred_phase)
+plot_radar_chart(list(my_prediction.values()), domains, title="Your Domain Prediction")
+explain_prediction(list(my_prediction.values()), domains)

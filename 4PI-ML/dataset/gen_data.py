@@ -1,48 +1,67 @@
-import pandas as pd
 import numpy as np
-import random
+import pandas as pd
 
-# ----------------------------
-# Parameters
-# ----------------------------
-num_users = 50
-num_questions = 15
-options = ['A', 'B', 'C', 'D']
-domains = ['STEM', 'Arts', 'Business', 'Health']
-phases = ['CA', 'ES', 'PR', 'PM']
+# =========================
+# CONFIGURATION
+# =========================
+NUM_USERS = 1000
+NUM_QUESTIONS = 15
+NUM_DOMAINS = 4
+NUM_PHASES = 4
 
-# Mapping options to domains randomly (for synthetic data)
-option_domain_map = {
-    'A': 'STEM',
-    'B': 'Arts',
-    'C': 'Business',
-    'D': 'Health'
+domains = ["STEM", "Business, Economics & Entrepreneurship", "Arts & Creative Expression", "Health, Medicine & Life Sciences"]
+phases = ["Curiosity Activation", "Engagement Sustainment",
+          "Personal Relevance Formation", "Passion-Driven Mastery"]
+
+phase_weights = {
+    "Curiosity Activation": 1,
+    "Engagement Sustainment": 2,
+    "Personal Relevance Formation": 3,
+    "Passion-Driven Mastery": 4
 }
 
-# ----------------------------
-# Generate question-level responses
-# ----------------------------
-data = []
-for user_id in range(1, num_users + 1):
-    row = {}
-    row['UserID'] = f'U{user_id}'
-    # Randomly select options for each question
-    for q in range(1, num_questions + 1):
-        row[f'Q{q}'] = random.choice(options)
-    data.append(row)
+# =========================
+# FUNCTIONS
+# =========================
+def generate_user_answer():
+    answers = []
+    for _ in range(NUM_QUESTIONS):
+        domain_choice = np.random.randint(0, NUM_DOMAINS)
+        phase_choice = np.random.randint(0, NUM_PHASES)
+        answers.append((domain_choice, phase_choice))
+    return answers
 
-df = pd.DataFrame(data)
+def answers_to_features(answers):
+    feature_vector = np.zeros(NUM_DOMAINS * NUM_PHASES)
+    for domain_choice, phase_choice in answers:
+        feature_vector[phase_choice * NUM_DOMAINS + domain_choice] += phase_weights[phases[phase_choice]]
+    return feature_vector
 
-# ----------------------------
-# Generate aggregated domain-phase counts
-# ----------------------------
-for domain in domains:
-    for phase in phases:
-        # Random counts between 0 and 3 for synthetic data
-        df[f'{domain}_{phase}'] = np.random.randint(0, 4, size=num_users)
+def generate_target_domains(answers):
+    domain_scores = np.zeros(NUM_DOMAINS)
+    for domain_choice, phase_choice in answers:
+        domain_scores[domain_choice] += phase_weights[phases[phase_choice]]
+    top_indices = domain_scores.argsort()[-2:]  # pick top 2 domains
+    target = np.zeros(NUM_DOMAINS)
+    target[top_indices] = 1
+    return target
 
-# ----------------------------
-# Save to CSV
-# ----------------------------
+# =========================
+# GENERATE DATASET
+# =========================
+X_list, y_list = [], []
+for _ in range(NUM_USERS):
+    ans = generate_user_answer()
+    X_list.append(answers_to_features(ans))
+    y_list.append(generate_target_domains(ans))
+
+X_array = np.array(X_list)
+y_array = np.array(y_list)
+
+# Combine features and targets into a single CSV
+df_features = pd.DataFrame(X_array, columns=[f"F{i+1}" for i in range(NUM_DOMAINS*NUM_PHASES)])
+df_targets = pd.DataFrame(y_array, columns=domains)
+df = pd.concat([df_features, df_targets], axis=1)
 df.to_csv("4PI-ML/dataset/data.csv", index=False)
-print("50-user synthetic dataset generated: sample_interest_dataset_50.csv")
+
+print("Synthetic dataset generated")
