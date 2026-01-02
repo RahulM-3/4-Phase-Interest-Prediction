@@ -5,127 +5,123 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-folder_path = "questions"
-summary_base = os.path.join(folder_path, "summary")
-os.makedirs(summary_base, exist_ok=True)
+BASE_FOLDER = "questions"
+SUMMARY_BASE = os.path.join(BASE_FOLDER, "summary")
+os.makedirs(SUMMARY_BASE, exist_ok=True)
 
-age_groups = ["primary", "secondary", "highered", "lifelong"]
-age_group_data = {}
+AGE_GROUPS = ["primary", "secondary", "highered", "lifelong"]
 
-# Load JSON data
-for age_group in age_groups:
-    json_file = os.path.join(folder_path, age_group, f"{age_group}.json")
-    if not os.path.exists(json_file):
-        print(f"JSON file not found: {json_file}")
-        continue
-    with open(json_file, "r", encoding="utf-8") as f:
-        age_group_data[age_group] = json.load(f)
+def truncate(text, max_len=12):
+    return text if len(text) <= max_len else text[:max_len - 1] + "…"
 
 summary_rows = []
 
-# Analyze each age group
-for age_group, questions in age_group_data.items():
-    print(f"\n=== Analysis for {age_group} ===")
-    
+for age_group in AGE_GROUPS:
+    json_path = os.path.join(BASE_FOLDER, age_group, f"{age_group}.json")
+    if not os.path.exists(json_path):
+        print(f"❌ Missing: {json_path}")
+        continue
+
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    questions = data  
+
+    print(f"\n=== Analysis for {age_group.upper()} ===")
+
     phase_counter = Counter()
     domain_counter = Counter()
-    phase_domain_counts = defaultdict(lambda: Counter())
-    
+    phase_domain = defaultdict(Counter)
+
     for q in questions:
         phase = q["interest_phase"]
         phase_counter[phase] += 1
+
         for opt in q["options"]:
-            non_neutral_domains = [d for d in opt["domains"] if d != "Neutral"]
-            for domain in non_neutral_domains:
-                domain_counter[domain] += 1
-                phase_domain_counts[phase][domain] += 1
-    
-    # Print Phase distribution
-    print("Phase distribution:")
-    for phase, count in phase_counter.items():
-        print(f"  {phase}: {count}")
-    
-    # Print Domain distribution
-    print("Domain distribution:")
-    for domain, count in domain_counter.items():
-        print(f"  {domain}: {count}")
-    
-    # Check domain balance
+            for domain, score in opt["domains"].items():
+                if domain == "Neutral":
+                    continue
+                domain_counter[domain] += score
+                phase_domain[phase][domain] += score
+
+    # ---- Console Output ----
+    print("\nPhase distribution:")
+    for p, c in phase_counter.items():
+        print(f"  {p}: {c}")
+
+    print("\nDomain distribution:")
+    for d, c in domain_counter.items():
+        print(f"  {d}: {c}")
+
+    print("\nDomains per phase:")
+    for p, dmap in phase_domain.items():
+        print(f"  {p}:")
+        for d, c in dmap.items():
+            print(f"    - {d}: {c}")
+
+    # ---- Warnings ----
     warnings = []
     if domain_counter:
-        total_domains = len(domain_counter)
-        if total_domains < 4:
-            warnings.append("Some domains are missing.")
-            print("Some domains are missing.")
-        max_count = max(domain_counter.values())
-        min_count = min(domain_counter.values())
-        if max_count > 2 * min_count:
-            warnings.append("Domain counts are highly imbalanced.")
-            print("Domain counts are highly imbalanced.")
-    
-    # Ensure summary folder exists
-    summary_folder = os.path.join(summary_base, age_group)
+        vals = list(domain_counter.values())
+        if max(vals) > 2 * min(vals):
+            warnings.append("Domain imbalance detected")
+
+    # ---- Prepare folders ----
+    summary_folder = os.path.join(SUMMARY_BASE, age_group)
     os.makedirs(summary_folder, exist_ok=True)
-    
-    # Plot Phase distribution
+
+    # ---- Phase chart ----
     plt.figure(figsize=(8, 4))
-    plt.bar(phase_counter.keys(), phase_counter.values(), color='skyblue')
-    plt.title(f"{age_group} - Questions per Phase")
-    plt.xlabel("Phase")
-    plt.ylabel("Number of Questions")
-    plt.savefig(os.path.join(summary_folder, "Questions_per_Phase.png"), dpi=300)
+    plt.bar(phase_counter.keys(), phase_counter.values())
+    plt.title(f"{age_group} – Questions per Phase")
+    plt.xticks(rotation=20)
+    plt.tight_layout()
+    plt.savefig(os.path.join(summary_folder, "questions_per_phase.png"), dpi=300)
     plt.close()
-    
-    # Plot Domain distribution
+
+    # ---- Domain chart ----
     plt.figure(figsize=(8, 4))
-    plt.bar(domain_counter.keys(), domain_counter.values(), color='lightgreen')
-    plt.title(f"{age_group} - Option Distribution per Domain")
-    plt.xlabel("Domain")
-    plt.ylabel("Option Counts")
-    plt.savefig(os.path.join(summary_folder, "Option_Distribution_per_Domain.png"), dpi=300)
+    plt.bar(domain_counter.keys(), domain_counter.values())
+    plt.title(f"{age_group} – Domain Distribution")
+    plt.xticks(rotation=30)
+    plt.tight_layout()
+    plt.savefig(os.path.join(summary_folder, "domain_distribution.png"), dpi=300)
     plt.close()
-    
-    # Heatmap Phase vs Domain
-    phases = list(phase_domain_counts.keys())
-    domains = sorted({d for ph in phases for d in phase_domain_counts[ph].keys()})
-    heatmap_data = [[phase_domain_counts[ph].get(d, 0) for d in domains] for ph in phases]
-    
+
+    # ---- Heatmap ----
+    phases = list(phase_domain.keys())
+    domains = sorted(domain_counter.keys())
+
+    heatmap = [[phase_domain[p].get(d, 0) for d in domains] for p in phases]
+
     plt.figure(figsize=(10, 6))
-    sns.heatmap(heatmap_data, annot=True, fmt="d", xticklabels=domains, yticklabels=phases, cmap="YlGnBu")
-    plt.title(f"{age_group} - Phase vs Domain Option Count")
-    plt.xlabel("Domain")
-    plt.ylabel("Phase")
-    plt.savefig(os.path.join(summary_folder, "Phase_vs_Domain_Option_Count.png"), dpi=300)
-    plt.close()
-        
-    # Save Domain distribution as separate chart for easier visualization
-    plt.figure(figsize=(8, 4))
-    sns.barplot(
-        x=list(domain_counter.keys()),
-        y=list(domain_counter.values()),
-        hue=list(domain_counter.keys()),
-        palette="pastel",
-        legend=False
+    sns.heatmap(
+        heatmap,
+        annot=True,
+        fmt="d",
+        xticklabels=[truncate(d) for d in domains],
+        yticklabels=phases,
+        cmap="YlGnBu"
     )
-    plt.title(f"{age_group} - Overall Domain Distribution")
-    plt.xlabel("Domain")
-    plt.ylabel("Option Counts")
-    plt.savefig(os.path.join(summary_folder, "Overall_Domain_Distribution.png"), dpi=300)
+    plt.title(f"{age_group} – Phase × Domain")
+    plt.tight_layout()
+    plt.savefig(os.path.join(summary_folder, "phase_vs_domain_heatmap.png"), dpi=300)
     plt.close()
-    
-    # Prepare summary dataframe
-    for phase in phases:
-        for domain in domains:
+
+    # ---- CSV rows ----
+    for p in phases:
+        for d in domains:
             summary_rows.append({
                 "Age Group": age_group,
-                "Phase": phase,
-                "Domain": domain,
-                "Option Count": phase_domain_counts[phase].get(domain, 0),
+                "Phase": p,
+                "Domain": d,
+                "Score": phase_domain[p].get(d, 0),
                 "Warnings": "; ".join(warnings)
             })
 
-# Save overall summary
-summary_df = pd.DataFrame(summary_rows)
-summary_csv = os.path.join(summary_base, "question_analysis_summary.csv")
-summary_df.to_csv(summary_csv, index=False)
-print(f"\nSummary CSV saved: {summary_csv}")
+# ---- Save CSV ----
+df = pd.DataFrame(summary_rows)
+csv_path = os.path.join(SUMMARY_BASE, "question_analysis_summary.csv")
+df.to_csv(csv_path, index=False)
+
+print(f"\nSummary saved to {csv_path}")

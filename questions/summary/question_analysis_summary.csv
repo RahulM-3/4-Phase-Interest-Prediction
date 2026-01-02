@@ -1,97 +1,97 @@
-Age Group,Phase,Domain,Option Count,Warnings
+Age Group,Phase,Domain,Score,Warnings
 primary,Curiosity Activation,"Arts, Humanities & Creative Studies",15,
 primary,Curiosity Activation,"Business, Commerce & Management",5,
 primary,Curiosity Activation,"Engineering, Technology & Computer Science",15,
 primary,Curiosity Activation,Healthcare & Life Sciences,12,
 primary,Curiosity Activation,"Law, Education & Public Service",13,
 primary,Curiosity Activation,Science & Research,12,
-primary,Engagement Sustainment,"Arts, Humanities & Creative Studies",11,
-primary,Engagement Sustainment,"Business, Commerce & Management",6,
-primary,Engagement Sustainment,"Engineering, Technology & Computer Science",12,
-primary,Engagement Sustainment,Healthcare & Life Sciences,16,
-primary,Engagement Sustainment,"Law, Education & Public Service",13,
-primary,Engagement Sustainment,Science & Research,14,
-primary,Personal Relevance Formation,"Arts, Humanities & Creative Studies",11,
-primary,Personal Relevance Formation,"Business, Commerce & Management",8,
-primary,Personal Relevance Formation,"Engineering, Technology & Computer Science",10,
-primary,Personal Relevance Formation,Healthcare & Life Sciences,9,
-primary,Personal Relevance Formation,"Law, Education & Public Service",11,
-primary,Personal Relevance Formation,Science & Research,11,
-primary,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",4,
-primary,Passion-Driven Mastery,"Business, Commerce & Management",4,
-primary,Passion-Driven Mastery,"Engineering, Technology & Computer Science",4,
-primary,Passion-Driven Mastery,Healthcare & Life Sciences,4,
-primary,Passion-Driven Mastery,"Law, Education & Public Service",4,
-primary,Passion-Driven Mastery,Science & Research,4,
+primary,Engagement Sustainment,"Arts, Humanities & Creative Studies",22,
+primary,Engagement Sustainment,"Business, Commerce & Management",12,
+primary,Engagement Sustainment,"Engineering, Technology & Computer Science",24,
+primary,Engagement Sustainment,Healthcare & Life Sciences,32,
+primary,Engagement Sustainment,"Law, Education & Public Service",26,
+primary,Engagement Sustainment,Science & Research,28,
+primary,Personal Relevance Formation,"Arts, Humanities & Creative Studies",33,
+primary,Personal Relevance Formation,"Business, Commerce & Management",24,
+primary,Personal Relevance Formation,"Engineering, Technology & Computer Science",30,
+primary,Personal Relevance Formation,Healthcare & Life Sciences,27,
+primary,Personal Relevance Formation,"Law, Education & Public Service",33,
+primary,Personal Relevance Formation,Science & Research,33,
+primary,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",16,
+primary,Passion-Driven Mastery,"Business, Commerce & Management",16,
+primary,Passion-Driven Mastery,"Engineering, Technology & Computer Science",16,
+primary,Passion-Driven Mastery,Healthcare & Life Sciences,16,
+primary,Passion-Driven Mastery,"Law, Education & Public Service",16,
+primary,Passion-Driven Mastery,Science & Research,16,
 secondary,Curiosity Activation,"Arts, Humanities & Creative Studies",10,
 secondary,Curiosity Activation,"Business, Commerce & Management",10,
 secondary,Curiosity Activation,"Engineering, Technology & Computer Science",11,
 secondary,Curiosity Activation,Healthcare & Life Sciences,8,
 secondary,Curiosity Activation,"Law, Education & Public Service",10,
 secondary,Curiosity Activation,Science & Research,11,
-secondary,Engagement Sustainment,"Arts, Humanities & Creative Studies",9,
-secondary,Engagement Sustainment,"Business, Commerce & Management",9,
-secondary,Engagement Sustainment,"Engineering, Technology & Computer Science",11,
-secondary,Engagement Sustainment,Healthcare & Life Sciences,9,
-secondary,Engagement Sustainment,"Law, Education & Public Service",11,
-secondary,Engagement Sustainment,Science & Research,11,
-secondary,Personal Relevance Formation,"Arts, Humanities & Creative Studies",10,
-secondary,Personal Relevance Formation,"Business, Commerce & Management",9,
-secondary,Personal Relevance Formation,"Engineering, Technology & Computer Science",17,
-secondary,Personal Relevance Formation,Healthcare & Life Sciences,9,
-secondary,Personal Relevance Formation,"Law, Education & Public Service",11,
-secondary,Personal Relevance Formation,Science & Research,16,
-secondary,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",6,
-secondary,Passion-Driven Mastery,"Business, Commerce & Management",5,
-secondary,Passion-Driven Mastery,"Engineering, Technology & Computer Science",8,
-secondary,Passion-Driven Mastery,Healthcare & Life Sciences,5,
-secondary,Passion-Driven Mastery,"Law, Education & Public Service",5,
-secondary,Passion-Driven Mastery,Science & Research,7,
-highered,Curiosity Activation,"Arts, Humanities & Creative Studies",3,Domain counts are highly imbalanced.
-highered,Curiosity Activation,"Business, Commerce & Management",3,Domain counts are highly imbalanced.
-highered,Curiosity Activation,"Engineering, Technology & Computer Science",6,Domain counts are highly imbalanced.
-highered,Curiosity Activation,Healthcare & Life Sciences,3,Domain counts are highly imbalanced.
-highered,Curiosity Activation,"Law, Education & Public Service",3,Domain counts are highly imbalanced.
-highered,Curiosity Activation,Science & Research,6,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,"Arts, Humanities & Creative Studies",4,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,"Business, Commerce & Management",8,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,"Engineering, Technology & Computer Science",12,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,Healthcare & Life Sciences,7,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,"Law, Education & Public Service",6,Domain counts are highly imbalanced.
-highered,Engagement Sustainment,Science & Research,11,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,"Arts, Humanities & Creative Studies",7,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,"Business, Commerce & Management",12,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,"Engineering, Technology & Computer Science",21,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,Healthcare & Life Sciences,12,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,"Law, Education & Public Service",11,Domain counts are highly imbalanced.
-highered,Personal Relevance Formation,Science & Research,21,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",9,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,"Business, Commerce & Management",9,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,"Engineering, Technology & Computer Science",18,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,Healthcare & Life Sciences,9,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,"Law, Education & Public Service",9,Domain counts are highly imbalanced.
-highered,Passion-Driven Mastery,Science & Research,18,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,"Arts, Humanities & Creative Studies",3,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,"Business, Commerce & Management",3,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,"Engineering, Technology & Computer Science",6,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,Healthcare & Life Sciences,3,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,"Law, Education & Public Service",3,Domain counts are highly imbalanced.
-lifelong,Curiosity Activation,Science & Research,6,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,"Arts, Humanities & Creative Studies",4,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,"Business, Commerce & Management",5,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,"Engineering, Technology & Computer Science",9,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,Healthcare & Life Sciences,5,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,"Law, Education & Public Service",4,Domain counts are highly imbalanced.
-lifelong,Engagement Sustainment,Science & Research,9,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,"Arts, Humanities & Creative Studies",10,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,"Business, Commerce & Management",14,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,"Engineering, Technology & Computer Science",24,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,Healthcare & Life Sciences,14,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,"Law, Education & Public Service",10,Domain counts are highly imbalanced.
-lifelong,Personal Relevance Formation,Science & Research,24,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",15,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,"Business, Commerce & Management",3,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,"Engineering, Technology & Computer Science",18,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,Healthcare & Life Sciences,16,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,"Law, Education & Public Service",2,Domain counts are highly imbalanced.
-lifelong,Passion-Driven Mastery,Science & Research,18,Domain counts are highly imbalanced.
+secondary,Engagement Sustainment,"Arts, Humanities & Creative Studies",18,
+secondary,Engagement Sustainment,"Business, Commerce & Management",18,
+secondary,Engagement Sustainment,"Engineering, Technology & Computer Science",22,
+secondary,Engagement Sustainment,Healthcare & Life Sciences,18,
+secondary,Engagement Sustainment,"Law, Education & Public Service",22,
+secondary,Engagement Sustainment,Science & Research,22,
+secondary,Personal Relevance Formation,"Arts, Humanities & Creative Studies",30,
+secondary,Personal Relevance Formation,"Business, Commerce & Management",27,
+secondary,Personal Relevance Formation,"Engineering, Technology & Computer Science",51,
+secondary,Personal Relevance Formation,Healthcare & Life Sciences,27,
+secondary,Personal Relevance Formation,"Law, Education & Public Service",33,
+secondary,Personal Relevance Formation,Science & Research,48,
+secondary,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",24,
+secondary,Passion-Driven Mastery,"Business, Commerce & Management",20,
+secondary,Passion-Driven Mastery,"Engineering, Technology & Computer Science",32,
+secondary,Passion-Driven Mastery,Healthcare & Life Sciences,20,
+secondary,Passion-Driven Mastery,"Law, Education & Public Service",20,
+secondary,Passion-Driven Mastery,Science & Research,28,
+highered,Curiosity Activation,"Arts, Humanities & Creative Studies",3,Domain imbalance detected
+highered,Curiosity Activation,"Business, Commerce & Management",3,Domain imbalance detected
+highered,Curiosity Activation,"Engineering, Technology & Computer Science",6,Domain imbalance detected
+highered,Curiosity Activation,Healthcare & Life Sciences,3,Domain imbalance detected
+highered,Curiosity Activation,"Law, Education & Public Service",3,Domain imbalance detected
+highered,Curiosity Activation,Science & Research,6,Domain imbalance detected
+highered,Engagement Sustainment,"Arts, Humanities & Creative Studies",8,Domain imbalance detected
+highered,Engagement Sustainment,"Business, Commerce & Management",16,Domain imbalance detected
+highered,Engagement Sustainment,"Engineering, Technology & Computer Science",24,Domain imbalance detected
+highered,Engagement Sustainment,Healthcare & Life Sciences,14,Domain imbalance detected
+highered,Engagement Sustainment,"Law, Education & Public Service",12,Domain imbalance detected
+highered,Engagement Sustainment,Science & Research,22,Domain imbalance detected
+highered,Personal Relevance Formation,"Arts, Humanities & Creative Studies",21,Domain imbalance detected
+highered,Personal Relevance Formation,"Business, Commerce & Management",36,Domain imbalance detected
+highered,Personal Relevance Formation,"Engineering, Technology & Computer Science",63,Domain imbalance detected
+highered,Personal Relevance Formation,Healthcare & Life Sciences,36,Domain imbalance detected
+highered,Personal Relevance Formation,"Law, Education & Public Service",33,Domain imbalance detected
+highered,Personal Relevance Formation,Science & Research,63,Domain imbalance detected
+highered,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",36,Domain imbalance detected
+highered,Passion-Driven Mastery,"Business, Commerce & Management",36,Domain imbalance detected
+highered,Passion-Driven Mastery,"Engineering, Technology & Computer Science",72,Domain imbalance detected
+highered,Passion-Driven Mastery,Healthcare & Life Sciences,36,Domain imbalance detected
+highered,Passion-Driven Mastery,"Law, Education & Public Service",36,Domain imbalance detected
+highered,Passion-Driven Mastery,Science & Research,72,Domain imbalance detected
+lifelong,Curiosity Activation,"Arts, Humanities & Creative Studies",3,Domain imbalance detected
+lifelong,Curiosity Activation,"Business, Commerce & Management",3,Domain imbalance detected
+lifelong,Curiosity Activation,"Engineering, Technology & Computer Science",6,Domain imbalance detected
+lifelong,Curiosity Activation,Healthcare & Life Sciences,3,Domain imbalance detected
+lifelong,Curiosity Activation,"Law, Education & Public Service",3,Domain imbalance detected
+lifelong,Curiosity Activation,Science & Research,6,Domain imbalance detected
+lifelong,Engagement Sustainment,"Arts, Humanities & Creative Studies",8,Domain imbalance detected
+lifelong,Engagement Sustainment,"Business, Commerce & Management",10,Domain imbalance detected
+lifelong,Engagement Sustainment,"Engineering, Technology & Computer Science",18,Domain imbalance detected
+lifelong,Engagement Sustainment,Healthcare & Life Sciences,10,Domain imbalance detected
+lifelong,Engagement Sustainment,"Law, Education & Public Service",8,Domain imbalance detected
+lifelong,Engagement Sustainment,Science & Research,18,Domain imbalance detected
+lifelong,Personal Relevance Formation,"Arts, Humanities & Creative Studies",30,Domain imbalance detected
+lifelong,Personal Relevance Formation,"Business, Commerce & Management",42,Domain imbalance detected
+lifelong,Personal Relevance Formation,"Engineering, Technology & Computer Science",72,Domain imbalance detected
+lifelong,Personal Relevance Formation,Healthcare & Life Sciences,42,Domain imbalance detected
+lifelong,Personal Relevance Formation,"Law, Education & Public Service",30,Domain imbalance detected
+lifelong,Personal Relevance Formation,Science & Research,72,Domain imbalance detected
+lifelong,Passion-Driven Mastery,"Arts, Humanities & Creative Studies",60,Domain imbalance detected
+lifelong,Passion-Driven Mastery,"Business, Commerce & Management",12,Domain imbalance detected
+lifelong,Passion-Driven Mastery,"Engineering, Technology & Computer Science",72,Domain imbalance detected
+lifelong,Passion-Driven Mastery,Healthcare & Life Sciences,64,Domain imbalance detected
+lifelong,Passion-Driven Mastery,"Law, Education & Public Service",8,Domain imbalance detected
+lifelong,Passion-Driven Mastery,Science & Research,72,Domain imbalance detected
