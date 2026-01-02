@@ -1,0 +1,402 @@
+1. When you hear about a new invention, what makes you curious first?
+   Phase: Curiosity Activation
+   A. How it is designed and built (Engineering, Technology & Computer Science)
+   B. What problem it solves using science (Science & Research)
+   C. How it might improve people’s lives (Healthcare & Life Sciences)
+   D. How it could change daily life or society (Law, Education & Public Service)
+
+2. If you visit a science exhibition, which section do you go to first?
+   Phase: Curiosity Activation
+   A. Interactive machines or robots (Engineering, Technology & Computer Science)
+   B. Experiments and discoveries (Science & Research)
+   C. Health, fitness, or human body displays (Healthcare & Life Sciences)
+   D. Information about how discoveries help communities (Law, Education & Public Service)
+
+3. When watching a movie or show, what grabs your attention most?
+   Phase: Curiosity Activation
+   A. The visuals, music, or storytelling (Arts, Humanities & Creative Studies)
+   B. The science or logic behind the story (Science & Research)
+   C. How characters plan or run things (Business, Commerce & Management)
+   D. The rules, leadership, or fairness shown (Law, Education & Public Service)
+
+4. If your school announces a new club, which one sounds interesting?
+   Phase: Curiosity Activation
+   A. Coding or robotics club (Engineering, Technology & Computer Science)
+   B. Art, drama, or music club (Arts, Humanities & Creative Studies)
+   C. Health or fitness club (Healthcare & Life Sciences)
+   D. Student council or leadership club (Law, Education & Public Service)
+
+5. When you see a problem around you, what do you wonder first?
+   Phase: Curiosity Activation
+   A. How it can be fixed or improved (Engineering, Technology & Computer Science)
+   B. Why it happens in the first place (Science & Research)
+   C. How it affects people’s well-being (Healthcare & Life Sciences)
+   D. How it can be managed or organized better (Business, Commerce & Management)
+
+6. If you read an article online, which topic do you click on first?
+   Phase: Curiosity Activation
+   A. New technology or gadgets (Engineering, Technology & Computer Science)
+   B. Scientific discoveries or space news (Science & Research)
+   C. Creative works or cultural stories (Arts, Humanities & Creative Studies)
+   D. Business ideas or success stories (Business, Commerce & Management)
+
+7. When learning something new, what makes you want to know more?
+   Phase: Curiosity Activation
+   A. Understanding how systems work together (Engineering, Technology & Computer Science)
+   B. Finding patterns or explanations (Science & Research)
+   C. Expressing ideas in your own way (Arts, Humanities & Creative Studies)
+   D. Seeing how it helps people or society (Law, Education & Public Service)
+
+8. If you could visit any workplace for a day, where would you go?
+   Phase: Curiosity Activation
+   A. A tech lab or workshop (Engineering, Technology & Computer Science)
+   B. A research center or laboratory (Science & Research)
+   C. A hospital or health center (Healthcare & Life Sciences)
+   D. A business office or startup (Business, Commerce & Management)
+
+9. When playing a strategy game, what part excites you most?
+   Phase: Curiosity Activation
+   A. Planning and managing resources (Business, Commerce & Management)
+   B. Understanding rules and fair play (Law, Education & Public Service)
+   C. Solving logical challenges (Science & Research)
+   D. Designing structures or tools in the game (Engineering, Technology & Computer Science)
+
+10. If you join a group project, what are you curious to try?
+    Phase: Curiosity Activation
+    A. Creating visuals or presentations (Arts, Humanities & Creative Studies)
+    B. Organizing tasks and timelines (Business, Commerce & Management)
+    C. Researching facts and data (Science & Research)
+    D. Making sure the project helps others (Law, Education & Public Service)
+
+11. When you hear about a new app, what do you want to explore?
+    Phase: Curiosity Activation
+    A. How the app is built and coded (Engineering, Technology & Computer Science)
+    B. The idea or creativity behind it (Arts, Humanities & Creative Studies)
+    C. How people might use or buy it (Business, Commerce & Management)
+    D. Whether it is safe and healthy to use (Healthcare & Life Sciences)
+
+12. If your school plans an event, what part interests you?
+    Phase: Curiosity Activation
+    A. Designing posters or performances (Arts, Humanities & Creative Studies)
+    B. Managing money and planning activities (Business, Commerce & Management)
+    C. Making sure rules are followed (Law, Education & Public Service)
+    D. Ensuring safety and well-being (Healthcare & Life Sciences)
+
+13. When you read about a famous person, what do you focus on?
+    Phase: Curiosity Activation
+    A. Their discoveries or inventions (Science & Research)
+    B. Their leadership or service to society (Law, Education & Public Service)
+    C. Their creative work or expression (Arts, Humanities & Creative Studies)
+    D. How they built successful organizations (Business, Commerce & Management)
+
+14. If you could learn a new skill just for fun, what would it be?
+    Phase: Curiosity Activation
+    A. Coding or building something useful (Engineering, Technology & Computer Science)
+    B. Painting, writing, or performing (Arts, Humanities & Creative Studies)
+    C. Learning about the human body or health (Healthcare & Life Sciences)
+    D. Understanding how businesses work (Business, Commerce & Management)
+
+15. When thinking about the future, what topic makes you curious?
+    Phase: Curiosity Activation
+    A. New technologies and machines (Engineering, Technology & Computer Science)
+    B. Scientific discoveries yet to be made (Science & Research)
+    C. Creative ideas shaping culture (Arts, Humanities & Creative Studies)
+    D. How societies are governed and improved (Law, Education & Public Service)
+
+
+
+1. When you work on a project for many days, what keeps you interested?  
+   Phase: Engagement Sustainment  
+   A. Improving how it is built or functions (Engineering, Technology & Computer Science)  
+   B. Testing ideas and checking results (Science & Research)  
+   C. Making it useful or meaningful for others (Law, Education & Public Service)  
+   D. Managing tasks and deadlines (Business, Commerce & Management)
+
+2. Which school activity do you enjoy spending extra time on?  
+   Phase: Engagement Sustainment  
+   A. Solving technical or coding problems (Engineering, Technology & Computer Science)  
+   B. Drawing, designing, or performing (Arts, Humanities & Creative Studies)  
+   C. Learning how the body or mind works (Healthcare & Life Sciences)  
+   D. Organizing events or group work (Business, Commerce & Management)
+
+3. When learning something challenging, what helps you stay focused?  
+   Phase: Engagement Sustainment  
+   A. Understanding the logic behind it (Science & Research)  
+   B. Practicing step by step until it works (Engineering, Technology & Computer Science)  
+   C. Seeing how it helps people (Healthcare & Life Sciences)  
+   D. Explaining it to others (Law, Education & Public Service)
+
+4. If you join a club, why do you keep going regularly?  
+   Phase: Engagement Sustainment  
+   A. You enjoy building or experimenting (Engineering, Technology & Computer Science)  
+   B. You like creating and expressing ideas (Arts, Humanities & Creative Studies)  
+   C. You feel useful helping others (Law, Education & Public Service)  
+   D. You enjoy planning and organizing activities (Business, Commerce & Management)
+
+5. When reading or watching content, what makes you continue?  
+   Phase: Engagement Sustainment  
+   A. Interesting facts and explanations (Science & Research)  
+   B. Strong visuals, stories, or performances (Arts, Humanities & Creative Studies)  
+   C. Ideas about improving health or well-being (Healthcare & Life Sciences)  
+   D. Lessons about leadership or teamwork (Law, Education & Public Service)
+
+6. What type of assignment do you usually complete with care?  
+   Phase: Engagement Sustainment  
+   A. Research-based or experiment tasks (Science & Research)  
+   B. Creative writing or design tasks (Arts, Humanities & Creative Studies)  
+   C. Planning or budgeting tasks (Business, Commerce & Management)  
+   D. Teaching or helping-based tasks (Law, Education & Public Service)
+
+7. During group work, what role do you like to continue doing?  
+   Phase: Engagement Sustainment  
+   A. Checking accuracy and data (Science & Research)  
+   B. Handling tools or technical parts (Engineering, Technology & Computer Science)  
+   C. Coordinating people and tasks (Business, Commerce & Management)  
+   D. Making sure everyone feels included (Healthcare & Life Sciences)
+
+8. When practicing a skill, what makes you want to improve?  
+   Phase: Engagement Sustainment  
+   A. Seeing clear progress and results (Engineering, Technology & Computer Science)  
+   B. Learning deeper reasons behind it (Science & Research)  
+   C. Expressing yourself better (Arts, Humanities & Creative Studies)  
+   D. Helping others through it (Law, Education & Public Service)
+
+9. Which topic do you find yourself returning to?  
+   Phase: Engagement Sustainment  
+   A. New technologies or systems (Engineering, Technology & Computer Science)  
+   B. Health, fitness, or mental well-being (Healthcare & Life Sciences)  
+   C. Social issues or community work (Law, Education & Public Service)  
+   D. Business ideas or planning strategies (Business, Commerce & Management)
+
+10. What kind of feedback motivates you to keep going?  
+    Phase: Engagement Sustainment  
+    A. That your solution works well (Engineering, Technology & Computer Science)  
+    B. That your explanation is accurate (Science & Research)  
+    C. That your creativity stands out (Arts, Humanities & Creative Studies)  
+    D. That your work helped others (Healthcare & Life Sciences)
+
+11. If you spend free time learning online, what do you continue watching?  
+    Phase: Engagement Sustainment  
+    A. Tutorials on building or coding (Engineering, Technology & Computer Science)  
+    B. Videos explaining science concepts (Science & Research)  
+    C. Creative or cultural content (Arts, Humanities & Creative Studies)  
+    D. Talks on leadership or education (Law, Education & Public Service)
+
+12. When organizing an event, what part do you enjoy most?  
+    Phase: Engagement Sustainment  
+    A. Planning schedules and budgets (Business, Commerce & Management)  
+    B. Designing posters or performances (Arts, Humanities & Creative Studies)  
+    C. Making sure everyone stays safe (Healthcare & Life Sciences)  
+    D. Coordinating volunteers and roles (Law, Education & Public Service)
+
+13. What makes you stick with a difficult subject?  
+    Phase: Engagement Sustainment  
+    A. Enjoying problem-solving challenges (Science & Research)  
+    B. Applying concepts to real tools or systems (Engineering, Technology & Computer Science)  
+    C. Knowing it helps people’s lives (Healthcare & Life Sciences)  
+    D. Seeing how it shapes society (Law, Education & Public Service)
+
+14. When leading a small task, what do you like doing repeatedly?  
+    Phase: Engagement Sustainment  
+    A. Planning and managing work (Business, Commerce & Management)  
+    B. Checking details and accuracy (Science & Research)  
+    C. Supporting team members (Healthcare & Life Sciences)  
+    D. Teaching or guiding others (Law, Education & Public Service)
+
+15. Which type of improvement feels satisfying to you?  
+    Phase: Engagement Sustainment  
+    A. Making a system faster or better (Engineering, Technology & Computer Science)  
+    B. Learning new facts clearly (Science & Research)  
+    C. Improving creative quality (Arts, Humanities & Creative Studies)  
+    D. Running activities more smoothly (Business, Commerce & Management)
+
+
+1. Which school subject feels most connected to who you are?
+   Phase: Personal Relevance Formation
+   A. Subjects where you build or work with technology (Engineering, Technology & Computer Science)
+   B. Subjects where you explore facts and explanations (Science & Research)
+   C. Subjects where you express ideas creatively (Arts, Humanities & Creative Studies)
+   D. Subjects about society, rules, or leadership (Law, Education & Public Service)
+
+2. When you imagine doing well in the future, what are you usually doing?
+   Phase: Personal Relevance Formation
+   A. Designing or improving systems (Engineering, Technology & Computer Science)
+   B. Discovering or understanding new knowledge (Science & Research)
+   C. Helping people stay healthy or supported (Healthcare & Life Sciences)
+   D. Leading or guiding others (Law, Education & Public Service)
+
+3. What kind of task makes you feel confident in your abilities?
+   Phase: Personal Relevance Formation
+   A. Solving technical or logical problems (Engineering, Technology & Computer Science)
+   B. Researching and explaining answers (Science & Research)
+   C. Organizing people or resources (Business, Commerce & Management)
+   D. Creating meaningful content or designs (Arts, Humanities & Creative Studies)
+
+4. Which activity feels most like “your strength”?
+   Phase: Personal Relevance Formation
+   A. Working with tools, machines, or code (Engineering, Technology & Computer Science)
+   B. Observing patterns and analyzing data (Science & Research)
+   C. Communicating ideas through art or writing (Arts, Humanities & Creative Studies)
+   D. Supporting others’ learning or growth (Law, Education & Public Service)
+
+5. When choosing how to spend your free time, what feels most natural?
+   Phase: Personal Relevance Formation
+   A. Exploring new technology or software (Engineering, Technology & Computer Science)
+   B. Reading or watching science-related content (Science & Research)
+   C. Practicing creative skills (Arts, Humanities & Creative Studies)
+   D. Planning activities or projects (Business, Commerce & Management)
+
+6. Which type of responsibility do you enjoy having?
+   Phase: Personal Relevance Formation
+   A. Managing tasks or schedules (Business, Commerce & Management)
+   B. Checking accuracy and quality (Science & Research)
+   C. Ensuring safety and well-being (Healthcare & Life Sciences)
+   D. Maintaining rules or fairness (Law, Education & Public Service)
+
+7. What kind of success feels meaningful to you?
+   Phase: Personal Relevance Formation
+   A. Creating something that works well (Engineering, Technology & Computer Science)
+   B. Understanding something deeply (Science & Research)
+   C. Making a positive impact on others (Healthcare & Life Sciences)
+   D. Achieving creative recognition (Arts, Humanities & Creative Studies)
+
+8. When you work in a group, what role feels right for you?
+   Phase: Personal Relevance Formation
+   A. Handling technical or digital parts (Engineering, Technology & Computer Science)
+   B. Planning and coordinating the work (Business, Commerce & Management)
+   C. Researching information (Science & Research)
+   D. Making sure everyone is treated fairly (Law, Education & Public Service)
+
+9. Which kind of learning motivates you the most?
+   Phase: Personal Relevance Formation
+   A. Learning by building or testing (Engineering, Technology & Computer Science)
+   B. Learning by questioning and proving (Science & Research)
+   C. Learning through creativity and expression (Arts, Humanities & Creative Studies)
+   D. Learning by teaching or guiding others (Law, Education & Public Service)
+
+10. What kind of problem do you care most about solving?
+    Phase: Personal Relevance Formation
+    A. Technical or system-related problems (Engineering, Technology & Computer Science)
+    B. Problems related to health or well-being (Healthcare & Life Sciences)
+    C. Social or community issues (Law, Education & Public Service)
+    D. Organizational or planning problems (Business, Commerce & Management)
+
+11. Which achievement would make you feel proud?
+    Phase: Personal Relevance Formation
+    A. Inventing or improving a tool (Engineering, Technology & Computer Science)
+    B. Making a scientific discovery or explanation (Science & Research)
+    C. Helping someone improve their health or life (Healthcare & Life Sciences)
+    D. Leading a successful project or team (Business, Commerce & Management)
+
+12. When learning becomes difficult, why do you continue?
+    Phase: Personal Relevance Formation
+    A. You enjoy mastering complex systems (Engineering, Technology & Computer Science)
+    B. You want accurate understanding (Science & Research)
+    C. You want to improve creative quality (Arts, Humanities & Creative Studies)
+    D. You want to help others through knowledge (Law, Education & Public Service)
+
+13. Which environment feels most comfortable for you?
+    Phase: Personal Relevance Formation
+    A. Workshops or labs (Engineering, Technology & Computer Science)
+    B. Research or study spaces (Science & Research)
+    C. Studios or creative spaces (Arts, Humanities & Creative Studies)
+    D. Community or service settings (Law, Education & Public Service)
+
+14. What kind of contribution do you value making?
+    Phase: Personal Relevance Formation
+    A. Practical and efficient solutions (Engineering, Technology & Computer Science)
+    B. Accurate and reliable information (Science & Research)
+    C. Care and support for people (Healthcare & Life Sciences)
+    D. Clear organization and leadership (Business, Commerce & Management)
+
+15. Which activity gives you a sense of purpose?
+    Phase: Personal Relevance Formation
+    A. Improving systems or processes (Engineering, Technology & Computer Science)
+    B. Learning about life and health (Healthcare & Life Sciences)
+    C. Expressing ideas that move others (Arts, Humanities & Creative Studies)
+    D. Teaching or mentoring (Law, Education & Public Service)
+
+16. When making choices, what do you trust most?
+    Phase: Personal Relevance Formation
+    A. Logic and functionality (Engineering, Technology & Computer Science)
+    B. Evidence and facts (Science & Research)
+    C. Empathy and care (Healthcare & Life Sciences)
+    D. Structure and planning (Business, Commerce & Management)
+
+17. What kind of long-term effort feels worth it to you?
+    Phase: Personal Relevance Formation
+    A. Becoming skilled with technology (Engineering, Technology & Computer Science)
+    B. Gaining deep scientific understanding (Science & Research)
+    C. Building creative mastery (Arts, Humanities & Creative Studies)
+    D. Developing leadership or service skills (Law, Education & Public Service)
+
+18. When people ask what you are good at, what do you think of first?
+    Phase: Personal Relevance Formation
+    A. Technical or problem-solving skills (Engineering, Technology & Computer Science)
+    B. Researching and explaining ideas (Science & Research)
+    C. Organizing and managing work (Business, Commerce & Management)
+    D. Caring for and supporting others (Healthcare & Life Sciences)
+
+
+1. If you chose one skill to deeply master over several years, what would it be?
+   Phase: Passion-Driven Mastery
+   A. Designing and improving technology or systems (Engineering, Technology & Computer Science)
+   B. Investigating questions and discovering new knowledge (Science & Research)
+   C. Creating meaningful art or performances (Arts, Humanities & Creative Studies)
+   D. Leading and serving communities responsibly (Law, Education & Public Service)
+
+2. What kind of work would you willingly practice even when it gets difficult?
+   Phase: Passion-Driven Mastery
+   A. Solving complex technical problems (Engineering, Technology & Computer Science)
+   B. Conducting experiments or deep analysis (Science & Research)
+   C. Managing projects and making plans succeed (Business, Commerce & Management)
+   D. Supporting people’s health and well-being (Healthcare & Life Sciences)
+
+3. When you imagine being known for something in the future, what is it?
+   Phase: Passion-Driven Mastery
+   A. Building reliable tools or systems (Engineering, Technology & Computer Science)
+   B. Producing original creative work (Arts, Humanities & Creative Studies)
+   C. Making discoveries or strong explanations (Science & Research)
+   D. Teaching, guiding, or leading others (Law, Education & Public Service)
+
+4. Which challenge would you enjoy improving at step by step?
+   Phase: Passion-Driven Mastery
+   A. Running teams or organizations effectively (Business, Commerce & Management)
+   B. Learning advanced technology or coding skills (Engineering, Technology & Computer Science)
+   C. Mastering creative techniques (Arts, Humanities & Creative Studies)
+   D. Understanding health, life, or the human body deeply (Healthcare & Life Sciences)
+
+5. What kind of long-term goal feels exciting rather than tiring?
+   Phase: Passion-Driven Mastery
+   A. Becoming highly skilled in research or analysis (Science & Research)
+   B. Creating work that influences culture or thinking (Arts, Humanities & Creative Studies)
+   C. Building systems that solve real problems (Engineering, Technology & Computer Science)
+   D. Improving how organizations or businesses operate (Business, Commerce & Management)
+
+6. If you had to choose one area to keep learning even outside school, which would it be?
+   Phase: Passion-Driven Mastery
+   A. Advanced science topics and discoveries (Science & Research)
+   B. Health, medicine, or caring professions (Healthcare & Life Sciences)
+   C. Leadership, law, or public service (Law, Education & Public Service)
+   D. Technology, machines, or software (Engineering, Technology & Computer Science)
+
+7. What kind of impact would make you feel proud after years of effort?
+   Phase: Passion-Driven Mastery
+   A. Helping people live healthier lives (Healthcare & Life Sciences)
+   B. Creating successful systems or products (Engineering, Technology & Computer Science)
+   C. Leading meaningful social or educational change (Law, Education & Public Service)
+   D. Expressing ideas that inspire others (Arts, Humanities & Creative Studies)
+
+8. Which skill would you want others to trust you as an expert in?
+   Phase: Passion-Driven Mastery
+   A. Analyzing data and evidence carefully (Science & Research)
+   B. Managing resources and decisions wisely (Business, Commerce & Management)
+   C. Designing creative or artistic work (Arts, Humanities & Creative Studies)
+   D. Solving technical or system-level problems (Engineering, Technology & Computer Science)
+
+9. When you think about working hard for many years, what feels most meaningful?
+   Phase: Passion-Driven Mastery
+   A. Discovering and sharing knowledge (Science & Research)
+   B. Caring for people and improving lives (Healthcare & Life Sciences)
+   C. Building and running effective organizations (Business, Commerce & Management)
+   D. Serving society through leadership or education (Law, Education & Public Service)

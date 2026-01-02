@@ -1,0 +1,1997 @@
+[
+  {
+    "question_id": "LIFE_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you come across a new idea or topic, what sparks your curiosity first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the technology or system behind it works",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The evidence or research that supports it",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "The effect it has on people’s health or well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How it shapes society or public life",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q2",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you attend a talk outside your usual interests, what draws you in?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "New tools, platforms, or innovations",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Fresh scientific insights or discoveries",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative perspectives or cultural stories",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Practical ideas for leadership or management",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q3",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you read an article or watch a documentary, what angle interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How it is designed or implemented",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The facts, data, or explanations behind it",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "The human or emotional aspects",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "The lessons for running organizations or projects",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q4",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you encounter a real-world problem, what do you want to understand first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "The technical solution or system change needed",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The root cause and evidence",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "The impact on health and well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "The rules, policies, or structures involved",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q5",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you explore a new field just for interest, what attracts you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Emerging technologies or digital tools",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Fundamental scientific questions",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Artistic expression or cultural understanding",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leadership, education, or governance topics",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q6",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you hear about a new product or service, what makes you curious?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How it was engineered or developed",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The research or science behind it",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Its value and sustainability as a business",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Its effect on people’s daily lives or health",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q7",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What helps you stay engaged when learning something new over a long period?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Applying tools or technologies in practical ways",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Continuously exploring evidence and explanations",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Reflecting on meaning, culture, or ideas",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Seeing clear value or outcomes from the effort",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q8",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When a topic becomes challenging, what keeps you motivated to continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Improving how a system or process works",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Understanding the science behind outcomes",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Knowing it supports health or well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Contributing to society or community structures",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q9",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which kind of activity do you willingly return to again and again?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Experimenting with new technologies or tools",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Reading research or analytical content",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creating or interpreting creative work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Planning, organizing, or leading initiatives",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q10",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What type of learning feels sustainable rather than exhausting?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Hands-on technical problem-solving",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Gradually building scientific understanding",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Exploring human stories and perspectives",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Developing policies or educational approaches",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q11",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When you commit time to a project, what makes the effort worthwhile?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Seeing a solution function effectively",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Reaching accurate, evidence-based conclusions",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Improving care, wellness, or quality of life",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Achieving measurable growth or impact",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q12",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What kind of progress do you enjoy tracking over time?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Increasing technical efficiency or capability",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Deeper insight through research and data",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Better understanding of health and human needs",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Stronger leadership or organizational outcomes",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q13",
+    "interest_phase": "Engagement Sustainment",
+    "question": "In collaborative efforts, what role keeps you consistently involved?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Managing technical details or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Validating information and accuracy",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Ensuring well-being and balance",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Guiding rules, learning, or fairness",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q14",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What type of content do you find yourself revisiting voluntarily?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Tutorials or discussions on new technologies",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific articles or explanatory media",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative works with lasting meaning",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Strategy, management, or leadership material",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q15",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What makes long-term learning feel personally rewarding?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Mastering tools that solve real problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Gaining clarity through research and reasoning",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Supporting health, care, or resilience",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Strengthening systems that serve people",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q16",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which kind of problem feels most meaningful for you to work on now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Improving how technology supports daily life",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Understanding causes and patterns through evidence",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Enhancing health, care, or well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Strengthening community systems or services",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q17",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you choose what to learn next, what influences your decision most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Practical usefulness of tools or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Curiosity about how the world works scientifically",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Personal growth through creative or cultural insight",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Career or organizational relevance",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q18",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which type of contribution feels most aligned with who you are today?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building or improving technical solutions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Providing accurate analysis or insight",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Supporting people’s physical or mental health",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Guiding learning, policy, or fairness",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q19",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of learning do you see yourself applying immediately?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Digital tools or technical skills",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Research-based decision-making",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative thinking or communication",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Management or strategic planning",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q20",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When reflecting on your experiences, what stands out as most fulfilling?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving technical challenges",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Discovering insights through data or study",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Helping others stay healthy or supported",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leading or organizing efforts effectively",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q21",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which area do you feel your perspective has matured the most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Applying technology thoughtfully",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Evaluating evidence critically",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Understanding human stories and values",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Navigating systems and institutions",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q22",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of impact do you care most about making now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Efficient and reliable systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Knowledge grounded in research",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Healthier individuals or communities",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sustainable organizations or initiatives",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q23",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you invest time in learning, what outcome matters most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Being able to build or fix things",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Reaching accurate understanding",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Expressing ideas clearly and meaningfully",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making informed leadership decisions",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q24",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which topic do you feel personally connected to right now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Emerging technologies",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific explanations of everyday phenomena",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Health, wellness, or longevity",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Education, policy, or social systems",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q25",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What type of challenge reflects your current priorities?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Integrating technology into real contexts",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making sense of complex information",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Supporting care and prevention",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Managing growth or change",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q26",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Where do you feel your efforts have lasting value?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical reliability and innovation",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Knowledge creation or validation",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Cultural understanding or creativity",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Institutional improvement",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q27",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which role feels most natural to you now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical problem-solver",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Analyst or researcher",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Caregiver or advocate for well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizer or leader",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q28",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of learning feels most personally relevant?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Skill-based technical learning",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Conceptual scientific learning",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Reflective or interpretive learning",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Applied leadership learning",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q29",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which outcome gives you the strongest sense of purpose?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Systems that work smoothly",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Conclusions supported by evidence",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Improved quality of life",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Fair and effective institutions",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q30",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What type of responsibility do you value most now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Maintaining technical standards",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Ensuring accuracy and rigor",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Protecting health and safety",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Stewarding resources and people",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q31",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which topic do you feel confident engaging with deeply?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technology and systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific reasoning",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative or cultural subjects",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Public policy or education",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q32",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What motivates you to continue learning at this stage?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Staying current with technology",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Keeping informed through research",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Maintaining health and balance",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Adapting to organizational change",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q33",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Where do you see yourself contributing most effectively?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical implementation",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Insight generation",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Care and support roles",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "System design and governance",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q34",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which kind of knowledge feels most personally useful?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How technologies function",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Why things happen scientifically",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How people create meaning",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How organizations succeed",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q35",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of success matters most to you now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Functional and scalable solutions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Sound understanding and accuracy",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Healthier outcomes for people",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sustainable leadership outcomes",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q36",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which area reflects your long-term interests?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technology evolution",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific discovery",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Human values and expression",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Education and public systems",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q37",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When choosing projects, what aligns best with you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical improvement projects",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Research-driven initiatives",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Health or wellness initiatives",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizational development projects",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q38",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of problem feels worth revisiting repeatedly?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical optimization",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Unanswered scientific questions",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Human-centered challenges",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Policy or system-level issues",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q39",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which learning path feels most aligned with your identity now?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technology-focused learning",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Science-focused learning",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Health-focused learning",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leadership and governance learning",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q40",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which area would you dedicate years to mastering, even without external rewards?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Designing and refining technical systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Conducting deep research or experiments",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading organizations or projects effectively",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving healthcare practices or outcomes",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q41",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of challenge excites you enough to persist for a long time?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving complex technological problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Investigating unanswered scientific questions",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Developing creative works or cultural contributions",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Shaping policies, education, or public initiatives",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q42",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which skill do you want to perfect over decades?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Programming, engineering, or system design",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Research, analysis, and evidence-based thinking",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Business strategy and organizational leadership",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Patient care or healthcare innovation",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q43",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When facing repeated failures, what motivates you to continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Optimizing technical solutions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Refining scientific methods and experiments",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Improving creative processes and output",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Advancing social systems or public service",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q44",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of impact would make years of effort worthwhile?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Reliable and innovative technology",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Contributions to knowledge and understanding",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Cultural or artistic influence",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Healthier communities or individuals",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q45",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which long-term goal feels most personally defining?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building or maintaining critical systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Leading breakthroughs in scientific research",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Achieving excellence in creative work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Implementing effective healthcare solutions",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q46",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What type of mastery would you pursue even if progress is slow?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Advanced technical or engineering expertise",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "In-depth scientific investigation",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Artistic or cultural skill development",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leadership in health or well-being initiatives",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q47",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which domain would you want others to recognize you as an expert in?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technology and systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific inquiry and problem-solving",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative or artistic mastery",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, medicine, or care delivery",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q48",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When considering your legacy, which area feels most important?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Creating sustainable technological solutions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Advancing scientific knowledge",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Influencing culture through creativity",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving health and quality of life",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q49",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What type of effort would you continue without external pressure?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Designing and testing systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Collecting and analyzing data",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Practicing and refining creative skills",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Implementing patient-focused care strategies",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q50",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which challenge do you want to dedicate yourself to mastering over time?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical and computational problem-solving",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific exploration and validation",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading teams or enterprises successfully",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health system or medical innovation",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q51",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What motivates you to keep improving even after mastery begins?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Achieving efficiency and reliability in technology",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Deepening understanding through ongoing research",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Producing innovative and meaningful creative work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Enhancing health outcomes continuously",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q52",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which pursuit gives you enduring satisfaction despite obstacles?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Problem-solving in engineering or IT",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Discovering new scientific insights",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Refining your artistic or cultural expression",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving lives through healthcare solutions",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q53",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which kind of expertise feels most personally rewarding to develop?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical innovation and implementation",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Experimental design and analysis",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative production and influence",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leadership in medical or wellness initiatives",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q54",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When thinking about the future, which area excites you to keep learning?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Advanced systems and technologies",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Ongoing research and discovery",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative growth and expression",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health and life sciences improvements",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q55",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which long-term skill would you devote yourself to mastering?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Programming, engineering, or technical design",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Research, experimentation, and reasoning",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Cultural, artistic, or creative skill",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Health, wellness, or clinical expertise",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q56",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of challenge feels most meaningful to persevere in?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Complex system development",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Investigating unanswered scientific questions",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Crafting impactful creative or cultural work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving healthcare practices or community wellness",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "LIFE_Q57",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which area would you continue pursuing even if it requires decades of dedication?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technology, engineering, and systems mastery",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific understanding and innovation",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative excellence and influence",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Healthcare, medical knowledge, and service",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  }
+]

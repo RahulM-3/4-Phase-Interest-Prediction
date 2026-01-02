@@ -1,0 +1,1997 @@
+[
+  {
+    "question_id": "PRIM_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a colorful machine at home that you have never used before. What do you want to do first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Press buttons to see what each one does",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Think about what it could be used for in daily life",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Check if it is safe to touch and use",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Imagine a fun way to use it while playing",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q2",
+    "interest_phase": "Curiosity Activation",
+    "question": "You notice a plant growing in a place you didn’t expect. What makes you most curious?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the plant grows there without help",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Whether it needs water or care to stay healthy",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing or coloring the plant the way you see it",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Finding out who planted it and why",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q3",
+    "interest_phase": "Curiosity Activation",
+    "question": "You find a small broken toy. What do you want to try first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Open it to see what parts are inside",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "See if it can be fixed to work again",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Use the pieces to create something new",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Check if any sharp parts could hurt someone",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q4",
+    "interest_phase": "Curiosity Activation",
+    "question": "You hear a strange sound coming from outside. What do you do?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Look around to find where the sound comes from",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Think about how the sound is made",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Ask an adult or teacher about it",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Imagine what could be making the sound",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q5",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see people building something near your house. What are you curious about?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How they are putting all the parts together",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "What the building will be used for",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Whether the place will be safe for people",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Who planned and allowed the building to be made",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q6",
+    "interest_phase": "Curiosity Activation",
+    "question": "You find a book with pictures of animals you’ve never seen. What interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Learning where those animals live",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Checking how the animals take care of themselves",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing your favorite animal from the book",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Reading facts to understand them better",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q7",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a new game being played by others. What do you want to know first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "The rules and how the game works",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Why people enjoy playing it so much",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "If it is safe for everyone to play",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How the game was taught to players",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q8",
+    "interest_phase": "Curiosity Activation",
+    "question": "You notice water flowing in a new way after rain. What do you wonder about?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Where the water is coming from and going to",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "How roads and paths guide the water",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Whether the water is clean and safe",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Who takes care of water in your area",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q9",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a shop with many interesting items. What makes you curious?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the items are made",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Why people like buying these items",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How the items are arranged nicely",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "If the items are safe to use",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q10",
+    "interest_phase": "Curiosity Activation",
+    "question": "You find an old object at home. What do you want to know?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How it was used in the past",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Who used it and taught others about it",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How it was built or made",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Imagine stories about where it came from",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q11",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see someone cooking something new. What interests you first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the food changes while cooking",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "If the food is healthy to eat",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How the tools are used to cook it",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How the food could be shared with others",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q12",
+    "interest_phase": "Curiosity Activation",
+    "question": "You watch a short video about space. What makes you curious?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How planets move in space",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "How rockets are built to go there",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing what space looks like in your mind",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning how people study space in schools",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q13",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a playground with new equipment. What do you want to try or learn?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the equipment is designed to work",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Whether it is safe to play on",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How many children like playing there",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Thinking of fun games to play on it",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q14",
+    "interest_phase": "Curiosity Activation",
+    "question": "You notice different insects in your garden. What are you curious about?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How they live and move",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Whether they help or harm plants",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing the insects you see",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning about them in books or class",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q15",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a bus stop with many people waiting. What do you wonder?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How buses know where to go",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Why people use buses instead of other ways",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "If rules are followed to keep people safe",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How people feel while waiting together",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q16",
+    "interest_phase": "Curiosity Activation",
+    "question": "You find a puzzle with many pieces. What do you want to do first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Figure out how the pieces fit together",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Enjoy the picture it makes at the end",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Think about the best way to solve it step by step",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Share it with others and take turns",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q17",
+    "interest_phase": "Curiosity Activation",
+    "question": "You see a doctor or nurse on TV. What are you curious about?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How they help people feel better",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "What they learn in school to do their job",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "The tools they use while working",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Drawing them helping someone",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q18",
+    "interest_phase": "Curiosity Activation",
+    "question": "You visit a place where people are teaching children. What interests you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How lessons are planned and taught",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "How children learn new things",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Using boards or tools in the classroom",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making learning fun with songs or drawings",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q19",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You start playing with a new building block set every day. What keeps you interested?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Figuring out stronger or taller ways to build with it",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Testing which shapes fit together best",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making creative designs or pictures using the blocks",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Playing safely without hurting your hands",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q20",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy watering plants regularly. What makes you want to keep doing it?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Watching how the plant grows over time",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making sure the plant stays healthy",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning the right way to care for plants from others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Using simple tools to water them properly",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q21",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like playing a board game again and again. Why do you continue playing it?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding the rules better each time",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Thinking of new ways to win the game",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Enjoying the pictures and design of the game",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone plays fairly and safely",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q22",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You often draw or color after school. What makes you want to continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Trying new colors and patterns",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Improving how neatly you draw each time",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Sitting calmly and feeling relaxed while drawing",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning drawing ideas from teachers or books",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q23",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You help arrange items in a small shop or stall. What keeps you involved?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Organizing items so people can find them easily",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Counting and arranging items properly",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making the place look neat and attractive",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Using shelves and boxes correctly",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q24",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy helping classmates during group work. Why do you keep doing it?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Explaining ideas clearly to others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Working together to finish tasks",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making sure everyone feels comfortable",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Finding better ways to complete the work",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q25",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like watching how toys move when you play with them. What holds your interest?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding why they move that way",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Adjusting parts to make them work better",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Playing safely without breaking them",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Imagining fun stories while playing",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q26",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy listening to stories every day. What makes you want to listen more?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Learning new words and ideas",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Imagining scenes and characters",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Noticing patterns in the story",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sitting quietly and feeling relaxed",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q27",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like helping to plan a small class event. What keeps you interested?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Deciding what things are needed",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Working with others to share tasks",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making the event look colorful and fun",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone is safe and comfortable",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q28",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy solving simple puzzles often. Why do you keep solving them?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Finding patterns to solve them faster",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Figuring out how pieces fit together",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Feeling calm and focused while solving",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning new puzzle tricks from others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q29",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like playing shop with friends. What keeps you playing?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Pretending to buy and sell items",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Counting items and prices",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making the shop look nice",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Taking turns and playing fairly",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q30",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy helping clean your room regularly. What makes you continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Arranging things in a better order",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Keeping the space healthy and clean",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning good habits from adults",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Deciding where things should go",
+        "domains": {
+          "Science & Research": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q31",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like observing animals or birds daily. Why does it interest you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Watching their behavior closely",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making sure they are safe",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing or describing what you see",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning about them in school",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q32",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy using simple tools like scissors or rulers. What keeps you using them?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Using them correctly and safely",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making accurate shapes or lines",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Measuring and comparing lengths",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Creating neat crafts",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q33",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like helping to manage class materials. Why do you continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Keeping track of items properly",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Organizing materials neatly",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making sure everyone gets what they need",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Keeping the items clean",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q34",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy practicing a song or rhyme many times. What keeps you practicing?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Remembering words and rhythm better",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning from teachers or friends",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Noticing patterns in sounds",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Feeling relaxed while practicing",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q35",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You like arranging numbers or objects in order. Why do you keep doing it?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Finding the correct order each time",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Improving how fast you arrange them",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Keeping everything neat",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning new methods from class",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q36",
+    "interest_phase": "Engagement Sustainment",
+    "question": "You enjoy helping to prepare snacks. What makes you stay interested?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Following steps carefully",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Using tools properly",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Keeping food clean and healthy",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Sharing food with others",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q37",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you think about activities you enjoy most, which one feels right for you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building or fixing things on your own",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Finding answers to questions you are curious about",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Helping others stay healthy or safe",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Drawing, coloring, or making crafts",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q38",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "At school, which task do you feel proud doing well?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving number or logic problems",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Using tools or materials carefully",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Helping classmates or following class rules",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making charts, posters, or decorations",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q39",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "If you could choose a classroom role, which would you like most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Organizing materials and supplies",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Explaining lessons to others",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Checking that everyone is safe",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Designing how the classroom looks",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q40",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you play with friends, what do you like doing again and again?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Making up stories or games",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Setting rules and helping everyone follow them",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Planning what to play and what is needed",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure no one gets hurt",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q41",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which kind of homework feels easiest for you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Experiments or finding facts",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Writing or drawing creatively",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Step-by-step building or arranging tasks",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Lessons about helping people or the community",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q42",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When someone asks for help, what do you usually like helping with?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Explaining how something works",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Helping them understand a lesson",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Taking care of them when they feel unwell",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizing their things",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q43",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity makes you feel confident doing on your own?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Measuring, counting, or sorting items",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating pictures or crafts",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Using tools or gadgets carefully",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Keeping places clean and safe",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q44",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "If you could choose a club, which sounds most interesting to you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "A building or puzzle club",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "A nature or science club",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "A drawing or music club",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "A helping or volunteering club",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q45",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of responsibility do you enjoy having?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Keeping track of class items",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making sure everyone follows rules",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Watching for safety issues",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Fixing or arranging things",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q46",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When learning something new, what helps you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Trying it step by step",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Asking questions and finding answers",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Seeing pictures or drawings",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Listening to guidance from teachers",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q47",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity do you choose during free time at school?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Reading or learning new facts",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Playing shop or organizing games",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Drawing, singing, or acting",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping others play safely",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q48",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What makes you feel useful in class?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving problems others find hard",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Setting up or arranging materials",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Supporting classmates kindly",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping teachers or classmates learn",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q49",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When working in a group, what role feels best for you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Planning what needs to be done",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making creative ideas for the group",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Checking facts or answers",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone follows rules",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q50",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of task do you want to get better at?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building or assembling things",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning how the world works",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Caring for people or animals",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Managing or organizing activities",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q51",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you imagine yourself doing well in school, what are you doing?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Creating artwork or performances",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Solving questions and puzzles",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading or helping others learn",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure tasks are planned and completed",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q52",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "If you could practice one activity every day because you love it, what would it be?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building models or fixing simple things",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Drawing, painting, or creating art",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning new facts and asking many questions",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping others learn or follow rules",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q53",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of work do you want to become really good at over time?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Taking care of people, plants, or animals",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Planning games or activities for others",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making creative projects better each time",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding how things work step by step",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q54",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When you imagine growing better at something, what excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Discovering answers through learning and testing",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Helping others feel safe and well",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading a group or teaching younger kids",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizing tasks and making plans work",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q55",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which activity would you enjoy practicing again and again?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving puzzles or tricky questions",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating stories, drawings, or music",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Building or improving simple machines or toys",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone plays fair",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q56",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "If you were praised for being very good at something, what would you want it to be?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Caring for people when they need help",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Running activities smoothly and neatly",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making creative ideas come alive",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning and sharing new knowledge",
+        "domains": {
+          "Science & Research": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "PRIM_Q57",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What skill would you like to keep improving as you grow?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Using tools and materials carefully",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Teaching or guiding others kindly",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Keeping people healthy and safe",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Planning and managing tasks well",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      }
+    ]
+  }
+]

@@ -16,15 +16,10 @@ FILE_PREFIX = {
     "lifelong": "LIFE"
 }
 
-RAW_FILES = [
-    "raw_primary.txt",
-    "raw_secondary.txt",
-    "raw_highered.txt",
-    "raw_lifelong.txt"
-]
+AGE_GROUPS = ["primary", "secondary", "highered", "lifelong"]
 
 def parse_raw_file(filename):
-    level = filename.replace("raw_", "").replace(".txt", "").replace("questions/", "")
+    level = os.path.basename(filename).replace("raw_", "").replace(".txt", "")
     prefix = FILE_PREFIX[level]
     questions = []
 
@@ -55,9 +50,7 @@ def parse_raw_file(filename):
             options.append({
                 "option_code": f"Opt_{opt_code}",
                 "text": opt_text,
-                "domains": {
-                    domain: phase_score
-                }
+                "domains": {domain: phase_score}
             })
             opt_code += 1
 
@@ -73,20 +66,25 @@ def parse_raw_file(filename):
     return questions
 
 def main():
-    folder_path = "questions/"
-    for raw_file in RAW_FILES:
-        raw_file = folder_path+raw_file
+    base_folder = "questions/"
+    os.makedirs(base_folder, exist_ok=True)
+
+    for age_group in AGE_GROUPS:
+        folder_path = os.path.join(base_folder, age_group)
+        os.makedirs(folder_path, exist_ok=True)
+
+        raw_file = os.path.join(folder_path, f"raw_{age_group}.txt")
         if not os.path.exists(raw_file):
-            print("Failed")
+            print(f"Raw file not found: {raw_file}")
             continue
 
-        output_name = raw_file.replace("raw_", "").replace(".txt", ".json")
         data = parse_raw_file(raw_file)
+        json_file = os.path.join(folder_path, f"{age_group}.json")
 
-        with open(output_name, "w", encoding="utf-8") as f:
+        with open(json_file, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        
-        print("Done")
+
+        print(f"Processed {raw_file} -> {json_file}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,402 @@
+1. When you come across a new idea or topic, what sparks your curiosity first?
+   Phase: Curiosity Activation
+   A. How the technology or system behind it works (Engineering, Technology & Computer Science)
+   B. The evidence or research that supports it (Science & Research)
+   C. The effect it has on people’s health or well-being (Healthcare & Life Sciences)
+   D. How it shapes society or public life (Law, Education & Public Service)
+
+2. If you attend a talk outside your usual interests, what draws you in?
+   Phase: Curiosity Activation
+   A. New tools, platforms, or innovations (Engineering, Technology & Computer Science)
+   B. Fresh scientific insights or discoveries (Science & Research)
+   C. Creative perspectives or cultural stories (Arts, Humanities & Creative Studies)
+   D. Practical ideas for leadership or management (Business, Commerce & Management)
+
+3. When you read an article or watch a documentary, what angle interests you most?
+   Phase: Curiosity Activation
+   A. How it is designed or implemented (Engineering, Technology & Computer Science)
+   B. The facts, data, or explanations behind it (Science & Research)
+   C. The human or emotional aspects (Arts, Humanities & Creative Studies)
+   D. The lessons for running organizations or projects (Business, Commerce & Management)
+
+4. When you encounter a real-world problem, what do you want to understand first?
+   Phase: Curiosity Activation
+   A. The technical solution or system change needed (Engineering, Technology & Computer Science)
+   B. The root cause and evidence (Science & Research)
+   C. The impact on health and well-being (Healthcare & Life Sciences)
+   D. The rules, policies, or structures involved (Law, Education & Public Service)
+
+5. If you explore a new field just for interest, what attracts you?
+   Phase: Curiosity Activation
+   A. Emerging technologies or digital tools (Engineering, Technology & Computer Science)
+   B. Fundamental scientific questions (Science & Research)
+   C. Artistic expression or cultural understanding (Arts, Humanities & Creative Studies)
+   D. Leadership, education, or governance topics (Law, Education & Public Service)
+
+6. When you hear about a new product or service, what makes you curious?
+   Phase: Curiosity Activation
+   A. How it was engineered or developed (Engineering, Technology & Computer Science)
+   B. The research or science behind it (Science & Research)
+   C. Its value and sustainability as a business (Business, Commerce & Management)
+   D. Its effect on people’s daily lives or health (Healthcare & Life Sciences)
+
+
+1. What helps you stay engaged when learning something new over a long period?
+   Phase: Engagement Sustainment
+   A. Applying tools or technologies in practical ways (Engineering, Technology & Computer Science)
+   B. Continuously exploring evidence and explanations (Science & Research)
+   C. Reflecting on meaning, culture, or ideas (Arts, Humanities & Creative Studies)
+   D. Seeing clear value or outcomes from the effort (Business, Commerce & Management)
+
+2. When a topic becomes challenging, what keeps you motivated to continue?
+   Phase: Engagement Sustainment
+   A. Improving how a system or process works (Engineering, Technology & Computer Science)
+   B. Understanding the science behind outcomes (Science & Research)
+   C. Knowing it supports health or well-being (Healthcare & Life Sciences)
+   D. Contributing to society or community structures (Law, Education & Public Service)
+
+3. Which kind of activity do you willingly return to again and again?
+   Phase: Engagement Sustainment
+   A. Experimenting with new technologies or tools (Engineering, Technology & Computer Science)
+   B. Reading research or analytical content (Science & Research)
+   C. Creating or interpreting creative work (Arts, Humanities & Creative Studies)
+   D. Planning, organizing, or leading initiatives (Business, Commerce & Management)
+
+4. What type of learning feels sustainable rather than exhausting?
+   Phase: Engagement Sustainment
+   A. Hands-on technical problem-solving (Engineering, Technology & Computer Science)
+   B. Gradually building scientific understanding (Science & Research)
+   C. Exploring human stories and perspectives (Arts, Humanities & Creative Studies)
+   D. Developing policies or educational approaches (Law, Education & Public Service)
+
+5. When you commit time to a project, what makes the effort worthwhile?
+   Phase: Engagement Sustainment
+   A. Seeing a solution function effectively (Engineering, Technology & Computer Science)
+   B. Reaching accurate, evidence-based conclusions (Science & Research)
+   C. Improving care, wellness, or quality of life (Healthcare & Life Sciences)
+   D. Achieving measurable growth or impact (Business, Commerce & Management)
+
+6. What kind of progress do you enjoy tracking over time?
+   Phase: Engagement Sustainment
+   A. Increasing technical efficiency or capability (Engineering, Technology & Computer Science)
+   B. Deeper insight through research and data (Science & Research)
+   C. Better understanding of health and human needs (Healthcare & Life Sciences)
+   D. Stronger leadership or organizational outcomes (Business, Commerce & Management)
+
+7. In collaborative efforts, what role keeps you consistently involved?
+   Phase: Engagement Sustainment
+   A. Managing technical details or systems (Engineering, Technology & Computer Science)
+   B. Validating information and accuracy (Science & Research)
+   C. Ensuring well-being and balance (Healthcare & Life Sciences)
+   D. Guiding rules, learning, or fairness (Law, Education & Public Service)
+
+8. What type of content do you find yourself revisiting voluntarily?
+   Phase: Engagement Sustainment
+   A. Tutorials or discussions on new technologies (Engineering, Technology & Computer Science)
+   B. Scientific articles or explanatory media (Science & Research)
+   C. Creative works with lasting meaning (Arts, Humanities & Creative Studies)
+   D. Strategy, management, or leadership material (Business, Commerce & Management)
+
+9. What makes long-term learning feel personally rewarding?
+   Phase: Engagement Sustainment
+   A. Mastering tools that solve real problems (Engineering, Technology & Computer Science)
+   B. Gaining clarity through research and reasoning (Science & Research)
+   C. Supporting health, care, or resilience (Healthcare & Life Sciences)
+   D. Strengthening systems that serve people (Law, Education & Public Service)
+
+
+1. Which kind of problem feels most meaningful for you to work on now?
+   Phase: Personal Relevance Formation
+   A. Improving how technology supports daily life (Engineering, Technology & Computer Science)
+   B. Understanding causes and patterns through evidence (Science & Research)
+   C. Enhancing health, care, or well-being (Healthcare & Life Sciences)
+   D. Strengthening community systems or services (Law, Education & Public Service)
+
+2. When you choose what to learn next, what influences your decision most?
+   Phase: Personal Relevance Formation
+   A. Practical usefulness of tools or systems (Engineering, Technology & Computer Science)
+   B. Curiosity about how the world works scientifically (Science & Research)
+   C. Personal growth through creative or cultural insight (Arts, Humanities & Creative Studies)
+   D. Career or organizational relevance (Business, Commerce & Management)
+
+3. Which type of contribution feels most aligned with who you are today?
+   Phase: Personal Relevance Formation
+   A. Building or improving technical solutions (Engineering, Technology & Computer Science)
+   B. Providing accurate analysis or insight (Science & Research)
+   C. Supporting people’s physical or mental health (Healthcare & Life Sciences)
+   D. Guiding learning, policy, or fairness (Law, Education & Public Service)
+
+4. What kind of learning do you see yourself applying immediately?
+   Phase: Personal Relevance Formation
+   A. Digital tools or technical skills (Engineering, Technology & Computer Science)
+   B. Research-based decision-making (Science & Research)
+   C. Creative thinking or communication (Arts, Humanities & Creative Studies)
+   D. Management or strategic planning (Business, Commerce & Management)
+
+5. When reflecting on your experiences, what stands out as most fulfilling?
+   Phase: Personal Relevance Formation
+   A. Solving technical challenges (Engineering, Technology & Computer Science)
+   B. Discovering insights through data or study (Science & Research)
+   C. Helping others stay healthy or supported (Healthcare & Life Sciences)
+   D. Leading or organizing efforts effectively (Business, Commerce & Management)
+
+6. Which area do you feel your perspective has matured the most?
+   Phase: Personal Relevance Formation
+   A. Applying technology thoughtfully (Engineering, Technology & Computer Science)
+   B. Evaluating evidence critically (Science & Research)
+   C. Understanding human stories and values (Arts, Humanities & Creative Studies)
+   D. Navigating systems and institutions (Law, Education & Public Service)
+
+7. What kind of impact do you care most about making now?
+   Phase: Personal Relevance Formation
+   A. Efficient and reliable systems (Engineering, Technology & Computer Science)
+   B. Knowledge grounded in research (Science & Research)
+   C. Healthier individuals or communities (Healthcare & Life Sciences)
+   D. Sustainable organizations or initiatives (Business, Commerce & Management)
+
+8. When you invest time in learning, what outcome matters most?
+   Phase: Personal Relevance Formation
+   A. Being able to build or fix things (Engineering, Technology & Computer Science)
+   B. Reaching accurate understanding (Science & Research)
+   C. Expressing ideas clearly and meaningfully (Arts, Humanities & Creative Studies)
+   D. Making informed leadership decisions (Business, Commerce & Management)
+
+9. Which topic do you feel personally connected to right now?
+   Phase: Personal Relevance Formation
+   A. Emerging technologies (Engineering, Technology & Computer Science)
+   B. Scientific explanations of everyday phenomena (Science & Research)
+   C. Health, wellness, or longevity (Healthcare & Life Sciences)
+   D. Education, policy, or social systems (Law, Education & Public Service)
+
+10. What type of challenge reflects your current priorities?
+    Phase: Personal Relevance Formation
+    A. Integrating technology into real contexts (Engineering, Technology & Computer Science)
+    B. Making sense of complex information (Science & Research)
+    C. Supporting care and prevention (Healthcare & Life Sciences)
+    D. Managing growth or change (Business, Commerce & Management)
+
+11. Where do you feel your efforts have lasting value?
+    Phase: Personal Relevance Formation
+    A. Technical reliability and innovation (Engineering, Technology & Computer Science)
+    B. Knowledge creation or validation (Science & Research)
+    C. Cultural understanding or creativity (Arts, Humanities & Creative Studies)
+    D. Institutional improvement (Law, Education & Public Service)
+
+12. Which role feels most natural to you now?
+    Phase: Personal Relevance Formation
+    A. Technical problem-solver (Engineering, Technology & Computer Science)
+    B. Analyst or researcher (Science & Research)
+    C. Caregiver or advocate for well-being (Healthcare & Life Sciences)
+    D. Organizer or leader (Business, Commerce & Management)
+
+13. What kind of learning feels most personally relevant?
+    Phase: Personal Relevance Formation
+    A. Skill-based technical learning (Engineering, Technology & Computer Science)
+    B. Conceptual scientific learning (Science & Research)
+    C. Reflective or interpretive learning (Arts, Humanities & Creative Studies)
+    D. Applied leadership learning (Business, Commerce & Management)
+
+14. Which outcome gives you the strongest sense of purpose?
+    Phase: Personal Relevance Formation
+    A. Systems that work smoothly (Engineering, Technology & Computer Science)
+    B. Conclusions supported by evidence (Science & Research)
+    C. Improved quality of life (Healthcare & Life Sciences)
+    D. Fair and effective institutions (Law, Education & Public Service)
+
+15. What type of responsibility do you value most now?
+    Phase: Personal Relevance Formation
+    A. Maintaining technical standards (Engineering, Technology & Computer Science)
+    B. Ensuring accuracy and rigor (Science & Research)
+    C. Protecting health and safety (Healthcare & Life Sciences)
+    D. Stewarding resources and people (Business, Commerce & Management)
+
+16. Which topic do you feel confident engaging with deeply?
+    Phase: Personal Relevance Formation
+    A. Technology and systems (Engineering, Technology & Computer Science)
+    B. Scientific reasoning (Science & Research)
+    C. Creative or cultural subjects (Arts, Humanities & Creative Studies)
+    D. Public policy or education (Law, Education & Public Service)
+
+17. What motivates you to continue learning at this stage?
+    Phase: Personal Relevance Formation
+    A. Staying current with technology (Engineering, Technology & Computer Science)
+    B. Keeping informed through research (Science & Research)
+    C. Maintaining health and balance (Healthcare & Life Sciences)
+    D. Adapting to organizational change (Business, Commerce & Management)
+
+18. Where do you see yourself contributing most effectively?
+    Phase: Personal Relevance Formation
+    A. Technical implementation (Engineering, Technology & Computer Science)
+    B. Insight generation (Science & Research)
+    C. Care and support roles (Healthcare & Life Sciences)
+    D. System design and governance (Law, Education & Public Service)
+
+19. Which kind of knowledge feels most personally useful?
+    Phase: Personal Relevance Formation
+    A. How technologies function (Engineering, Technology & Computer Science)
+    B. Why things happen scientifically (Science & Research)
+    C. How people create meaning (Arts, Humanities & Creative Studies)
+    D. How organizations succeed (Business, Commerce & Management)
+
+20. What kind of success matters most to you now?
+    Phase: Personal Relevance Formation
+    A. Functional and scalable solutions (Engineering, Technology & Computer Science)
+    B. Sound understanding and accuracy (Science & Research)
+    C. Healthier outcomes for people (Healthcare & Life Sciences)
+    D. Sustainable leadership outcomes (Business, Commerce & Management)
+
+21. Which area reflects your long-term interests?
+    Phase: Personal Relevance Formation
+    A. Technology evolution (Engineering, Technology & Computer Science)
+    B. Scientific discovery (Science & Research)
+    C. Human values and expression (Arts, Humanities & Creative Studies)
+    D. Education and public systems (Law, Education & Public Service)
+
+22. When choosing projects, what aligns best with you?
+    Phase: Personal Relevance Formation
+    A. Technical improvement projects (Engineering, Technology & Computer Science)
+    B. Research-driven initiatives (Science & Research)
+    C. Health or wellness initiatives (Healthcare & Life Sciences)
+    D. Organizational development projects (Business, Commerce & Management)
+
+23. What kind of problem feels worth revisiting repeatedly?
+    Phase: Personal Relevance Formation
+    A. Technical optimization (Engineering, Technology & Computer Science)
+    B. Unanswered scientific questions (Science & Research)
+    C. Human-centered challenges (Arts, Humanities & Creative Studies)
+    D. Policy or system-level issues (Law, Education & Public Service)
+
+24. Which learning path feels most aligned with your identity now?
+    Phase: Personal Relevance Formation
+    A. Technology-focused learning (Engineering, Technology & Computer Science)
+    B. Science-focused learning (Science & Research)
+    C. Health-focused learning (Healthcare & Life Sciences)
+    D. Leadership and governance learning (Business, Commerce & Management)
+
+
+
+1. Which area would you dedicate years to mastering, even without external rewards?
+   Phase: Passion-Driven Mastery
+   A. Designing and refining technical systems (Engineering, Technology & Computer Science)
+   B. Conducting deep research or experiments (Science & Research)
+   C. Leading organizations or projects effectively (Business, Commerce & Management)
+   D. Improving healthcare practices or outcomes (Healthcare & Life Sciences)
+
+2. What kind of challenge excites you enough to persist for a long time?
+   Phase: Passion-Driven Mastery
+   A. Solving complex technological problems (Engineering, Technology & Computer Science)
+   B. Investigating unanswered scientific questions (Science & Research)
+   C. Developing creative works or cultural contributions (Arts, Humanities & Creative Studies)
+   D. Shaping policies, education, or public initiatives (Law, Education & Public Service)
+
+3. Which skill do you want to perfect over decades?
+   Phase: Passion-Driven Mastery
+   A. Programming, engineering, or system design (Engineering, Technology & Computer Science)
+   B. Research, analysis, and evidence-based thinking (Science & Research)
+   C. Business strategy and organizational leadership (Business, Commerce & Management)
+   D. Patient care or healthcare innovation (Healthcare & Life Sciences)
+
+4. When facing repeated failures, what motivates you to continue?
+   Phase: Passion-Driven Mastery
+   A. Optimizing technical solutions (Engineering, Technology & Computer Science)
+   B. Refining scientific methods and experiments (Science & Research)
+   C. Improving creative processes and output (Arts, Humanities & Creative Studies)
+   D. Advancing social systems or public service (Law, Education & Public Service)
+
+5. What kind of impact would make years of effort worthwhile?
+   Phase: Passion-Driven Mastery
+   A. Reliable and innovative technology (Engineering, Technology & Computer Science)
+   B. Contributions to knowledge and understanding (Science & Research)
+   C. Cultural or artistic influence (Arts, Humanities & Creative Studies)
+   D. Healthier communities or individuals (Healthcare & Life Sciences)
+
+6. Which long-term goal feels most personally defining?
+   Phase: Passion-Driven Mastery
+   A. Building or maintaining critical systems (Engineering, Technology & Computer Science)
+   B. Leading breakthroughs in scientific research (Science & Research)
+   C. Achieving excellence in creative work (Arts, Humanities & Creative Studies)
+   D. Implementing effective healthcare solutions (Healthcare & Life Sciences)
+
+7. What type of mastery would you pursue even if progress is slow?
+   Phase: Passion-Driven Mastery
+   A. Advanced technical or engineering expertise (Engineering, Technology & Computer Science)
+   B. In-depth scientific investigation (Science & Research)
+   C. Artistic or cultural skill development (Arts, Humanities & Creative Studies)
+   D. Leadership in health or well-being initiatives (Healthcare & Life Sciences)
+
+8. Which domain would you want others to recognize you as an expert in?
+   Phase: Passion-Driven Mastery
+   A. Technology and systems (Engineering, Technology & Computer Science)
+   B. Scientific inquiry and problem-solving (Science & Research)
+   C. Creative or artistic mastery (Arts, Humanities & Creative Studies)
+   D. Health, medicine, or care delivery (Healthcare & Life Sciences)
+
+9. When considering your legacy, which area feels most important?
+   Phase: Passion-Driven Mastery
+   A. Creating sustainable technological solutions (Engineering, Technology & Computer Science)
+   B. Advancing scientific knowledge (Science & Research)
+   C. Influencing culture through creativity (Arts, Humanities & Creative Studies)
+   D. Improving health and quality of life (Healthcare & Life Sciences)
+
+10. What type of effort would you continue without external pressure?
+    Phase: Passion-Driven Mastery
+    A. Designing and testing systems (Engineering, Technology & Computer Science)
+    B. Collecting and analyzing data (Science & Research)
+    C. Practicing and refining creative skills (Arts, Humanities & Creative Studies)
+    D. Implementing patient-focused care strategies (Healthcare & Life Sciences)
+
+11. Which challenge do you want to dedicate yourself to mastering over time?
+    Phase: Passion-Driven Mastery
+    A. Technical and computational problem-solving (Engineering, Technology & Computer Science)
+    B. Scientific exploration and validation (Science & Research)
+    C. Leading teams or enterprises successfully (Business, Commerce & Management)
+    D. Health system or medical innovation (Healthcare & Life Sciences)
+
+12. What motivates you to keep improving even after mastery begins?
+    Phase: Passion-Driven Mastery
+    A. Achieving efficiency and reliability in technology (Engineering, Technology & Computer Science)
+    B. Deepening understanding through ongoing research (Science & Research)
+    C. Producing innovative and meaningful creative work (Arts, Humanities & Creative Studies)
+    D. Enhancing health outcomes continuously (Healthcare & Life Sciences)
+
+13. Which pursuit gives you enduring satisfaction despite obstacles?
+    Phase: Passion-Driven Mastery
+    A. Problem-solving in engineering or IT (Engineering, Technology & Computer Science)
+    B. Discovering new scientific insights (Science & Research)
+    C. Refining your artistic or cultural expression (Arts, Humanities & Creative Studies)
+    D. Improving lives through healthcare solutions (Healthcare & Life Sciences)
+
+14. Which kind of expertise feels most personally rewarding to develop?
+    Phase: Passion-Driven Mastery
+    A. Technical innovation and implementation (Engineering, Technology & Computer Science)
+    B. Experimental design and analysis (Science & Research)
+    C. Creative production and influence (Arts, Humanities & Creative Studies)
+    D. Leadership in medical or wellness initiatives (Healthcare & Life Sciences)
+
+15. When thinking about the future, which area excites you to keep learning?
+    Phase: Passion-Driven Mastery
+    A. Advanced systems and technologies (Engineering, Technology & Computer Science)
+    B. Ongoing research and discovery (Science & Research)
+    C. Creative growth and expression (Arts, Humanities & Creative Studies)
+    D. Health and life sciences improvements (Healthcare & Life Sciences)
+
+16. Which long-term skill would you devote yourself to mastering?
+    Phase: Passion-Driven Mastery
+    A. Programming, engineering, or technical design (Engineering, Technology & Computer Science)
+    B. Research, experimentation, and reasoning (Science & Research)
+    C. Cultural, artistic, or creative skill (Arts, Humanities & Creative Studies)
+    D. Health, wellness, or clinical expertise (Healthcare & Life Sciences)
+
+17. What kind of challenge feels most meaningful to persevere in?
+    Phase: Passion-Driven Mastery
+    A. Complex system development (Engineering, Technology & Computer Science)
+    B. Investigating unanswered scientific questions (Science & Research)
+    C. Crafting impactful creative or cultural work (Arts, Humanities & Creative Studies)
+    D. Improving healthcare practices or community wellness (Healthcare & Life Sciences)
+
+18. Which area would you continue pursuing even if it requires decades of dedication?
+    Phase: Passion-Driven Mastery
+    A. Technology, engineering, and systems mastery (Engineering, Technology & Computer Science)
+    B. Scientific understanding and innovation (Science & Research)
+    C. Creative excellence and influence (Arts, Humanities & Creative Studies)
+    D. Healthcare, medical knowledge, and service (Healthcare & Life Sciences)

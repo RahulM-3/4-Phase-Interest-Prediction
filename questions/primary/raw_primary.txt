@@ -1,0 +1,401 @@
+1. You see a colorful machine at home that you have never used before. What do you want to do first?
+   Phase: Curiosity Activation
+   A. Press buttons to see what each one does (Engineering, Technology & Computer Science)
+   B. Think about what it could be used for in daily life (Science & Research)
+   C. Check if it is safe to touch and use (Healthcare & Life Sciences)
+   D. Imagine a fun way to use it while playing (Arts, Humanities & Creative Studies)
+
+2. You notice a plant growing in a place you didn’t expect. What makes you most curious?
+   Phase: Curiosity Activation
+   A. How the plant grows there without help (Science & Research)
+   B. Whether it needs water or care to stay healthy (Healthcare & Life Sciences)
+   C. Drawing or coloring the plant the way you see it (Arts, Humanities & Creative Studies)
+   D. Finding out who planted it and why (Law, Education & Public Service)
+
+3. You find a small broken toy. What do you want to try first?
+   Phase: Curiosity Activation
+   A. Open it to see what parts are inside (Engineering, Technology & Computer Science)
+   B. See if it can be fixed to work again (Science & Research)
+   C. Use the pieces to create something new (Arts, Humanities & Creative Studies)
+   D. Check if any sharp parts could hurt someone (Healthcare & Life Sciences)
+
+4. You hear a strange sound coming from outside. What do you do?
+   Phase: Curiosity Activation
+   A. Look around to find where the sound comes from (Science & Research)
+   B. Think about how the sound is made (Engineering, Technology & Computer Science)
+   C. Ask an adult or teacher about it (Law, Education & Public Service)
+   D. Imagine what could be making the sound (Arts, Humanities & Creative Studies)
+
+5. You see people building something near your house. What are you curious about?
+   Phase: Curiosity Activation
+   A. How they are putting all the parts together (Engineering, Technology & Computer Science)
+   B. What the building will be used for (Business, Commerce & Management)
+   C. Whether the place will be safe for people (Healthcare & Life Sciences)
+   D. Who planned and allowed the building to be made (Law, Education & Public Service)
+
+6. You find a book with pictures of animals you’ve never seen. What interests you most?
+   Phase: Curiosity Activation
+   A. Learning where those animals live (Science & Research)
+   B. Checking how the animals take care of themselves (Healthcare & Life Sciences)
+   C. Drawing your favorite animal from the book (Arts, Humanities & Creative Studies)
+   D. Reading facts to understand them better (Law, Education & Public Service)
+
+7. You see a new game being played by others. What do you want to know first?
+   Phase: Curiosity Activation
+   A. The rules and how the game works (Engineering, Technology & Computer Science)
+   B. Why people enjoy playing it so much (Arts, Humanities & Creative Studies)
+   C. If it is safe for everyone to play (Healthcare & Life Sciences)
+   D. How the game was taught to players (Law, Education & Public Service)
+
+8. You notice water flowing in a new way after rain. What do you wonder about?
+   Phase: Curiosity Activation
+   A. Where the water is coming from and going to (Science & Research)
+   B. How roads and paths guide the water (Engineering, Technology & Computer Science)
+   C. Whether the water is clean and safe (Healthcare & Life Sciences)
+   D. Who takes care of water in your area (Law, Education & Public Service)
+
+9. You see a shop with many interesting items. What makes you curious?
+   Phase: Curiosity Activation
+   A. How the items are made (Engineering, Technology & Computer Science)
+   B. Why people like buying these items (Business, Commerce & Management)
+   C. How the items are arranged nicely (Arts, Humanities & Creative Studies)
+   D. If the items are safe to use (Healthcare & Life Sciences)
+
+10. You find an old object at home. What do you want to know?
+    Phase: Curiosity Activation
+    A. How it was used in the past (Science & Research)
+    B. Who used it and taught others about it (Law, Education & Public Service)
+    C. How it was built or made (Engineering, Technology & Computer Science)
+    D. Imagine stories about where it came from (Arts, Humanities & Creative Studies)
+
+11. You see someone cooking something new. What interests you first?
+    Phase: Curiosity Activation
+    A. How the food changes while cooking (Science & Research)
+    B. If the food is healthy to eat (Healthcare & Life Sciences)
+    C. How the tools are used to cook it (Engineering, Technology & Computer Science)
+    D. How the food could be shared with others (Business, Commerce & Management)
+
+12. You watch a short video about space. What makes you curious?
+    Phase: Curiosity Activation
+    A. How planets move in space (Science & Research)
+    B. How rockets are built to go there (Engineering, Technology & Computer Science)
+    C. Drawing what space looks like in your mind (Arts, Humanities & Creative Studies)
+    D. Learning how people study space in schools (Law, Education & Public Service)
+
+13. You see a playground with new equipment. What do you want to try or learn?
+    Phase: Curiosity Activation
+    A. How the equipment is designed to work (Engineering, Technology & Computer Science)
+    B. Whether it is safe to play on (Healthcare & Life Sciences)
+    C. How many children like playing there (Business, Commerce & Management)
+    D. Thinking of fun games to play on it (Arts, Humanities & Creative Studies)
+
+14. You notice different insects in your garden. What are you curious about?
+    Phase: Curiosity Activation
+    A. How they live and move (Science & Research)
+    B. Whether they help or harm plants (Healthcare & Life Sciences)
+    C. Drawing the insects you see (Arts, Humanities & Creative Studies)
+    D. Learning about them in books or class (Law, Education & Public Service)
+
+15. You see a bus stop with many people waiting. What do you wonder?
+    Phase: Curiosity Activation
+    A. How buses know where to go (Engineering, Technology & Computer Science)
+    B. Why people use buses instead of other ways (Business, Commerce & Management)
+    C. If rules are followed to keep people safe (Law, Education & Public Service)
+    D. How people feel while waiting together (Arts, Humanities & Creative Studies)
+
+16. You find a puzzle with many pieces. What do you want to do first?
+    Phase: Curiosity Activation
+    A. Figure out how the pieces fit together (Engineering, Technology & Computer Science)
+    B. Enjoy the picture it makes at the end (Arts, Humanities & Creative Studies)
+    C. Think about the best way to solve it step by step (Science & Research)
+    D. Share it with others and take turns (Law, Education & Public Service)
+
+17. You see a doctor or nurse on TV. What are you curious about?
+    Phase: Curiosity Activation
+    A. How they help people feel better (Healthcare & Life Sciences)
+    B. What they learn in school to do their job (Law, Education & Public Service)
+    C. The tools they use while working (Engineering, Technology & Computer Science)
+    D. Drawing them helping someone (Arts, Humanities & Creative Studies)
+
+18. You visit a place where people are teaching children. What interests you most?
+    Phase: Curiosity Activation
+    A. How lessons are planned and taught (Law, Education & Public Service)
+    B. How children learn new things (Science & Research)
+    C. Using boards or tools in the classroom (Engineering, Technology & Computer Science)
+    D. Making learning fun with songs or drawings (Arts, Humanities & Creative Studies)
+
+
+1. You start playing with a new building block set every day. What keeps you interested?
+   Phase: Engagement Sustainment
+   A. Figuring out stronger or taller ways to build with it (Engineering, Technology & Computer Science)
+   B. Testing which shapes fit together best (Science & Research)
+   C. Making creative designs or pictures using the blocks (Arts, Humanities & Creative Studies)
+   D. Playing safely without hurting your hands (Healthcare & Life Sciences)
+
+2. You enjoy watering plants regularly. What makes you want to keep doing it?
+   Phase: Engagement Sustainment
+   A. Watching how the plant grows over time (Science & Research)
+   B. Making sure the plant stays healthy (Healthcare & Life Sciences)
+   C. Learning the right way to care for plants from others (Law, Education & Public Service)
+   D. Using simple tools to water them properly (Engineering, Technology & Computer Science)
+
+3. You like playing a board game again and again. Why do you continue playing it?
+   Phase: Engagement Sustainment
+   A. Understanding the rules better each time (Law, Education & Public Service)
+   B. Thinking of new ways to win the game (Engineering, Technology & Computer Science)
+   C. Enjoying the pictures and design of the game (Arts, Humanities & Creative Studies)
+   D. Making sure everyone plays fairly and safely (Healthcare & Life Sciences)
+
+4. You often draw or color after school. What makes you want to continue?
+   Phase: Engagement Sustainment
+   A. Trying new colors and patterns (Arts, Humanities & Creative Studies)
+   B. Improving how neatly you draw each time (Science & Research)
+   C. Sitting calmly and feeling relaxed while drawing (Healthcare & Life Sciences)
+   D. Learning drawing ideas from teachers or books (Law, Education & Public Service)
+
+5. You help arrange items in a small shop or stall. What keeps you involved?
+   Phase: Engagement Sustainment
+   A. Organizing items so people can find them easily (Business, Commerce & Management)
+   B. Counting and arranging items properly (Science & Research)
+   C. Making the place look neat and attractive (Arts, Humanities & Creative Studies)
+   D. Using shelves and boxes correctly (Engineering, Technology & Computer Science)
+
+6. You enjoy helping classmates during group work. Why do you keep doing it?
+   Phase: Engagement Sustainment
+   A. Explaining ideas clearly to others (Law, Education & Public Service)
+   B. Working together to finish tasks (Business, Commerce & Management)
+   C. Making sure everyone feels comfortable (Healthcare & Life Sciences)
+   D. Finding better ways to complete the work (Engineering, Technology & Computer Science)
+
+7. You like watching how toys move when you play with them. What holds your interest?
+   Phase: Engagement Sustainment
+   A. Understanding why they move that way (Science & Research)
+   B. Adjusting parts to make them work better (Engineering, Technology & Computer Science)
+   C. Playing safely without breaking them (Healthcare & Life Sciences)
+   D. Imagining fun stories while playing (Arts, Humanities & Creative Studies)
+
+8. You enjoy listening to stories every day. What makes you want to listen more?
+   Phase: Engagement Sustainment
+   A. Learning new words and ideas (Law, Education & Public Service)
+   B. Imagining scenes and characters (Arts, Humanities & Creative Studies)
+   C. Noticing patterns in the story (Science & Research)
+   D. Sitting quietly and feeling relaxed (Healthcare & Life Sciences)
+
+9. You like helping to plan a small class event. What keeps you interested?
+   Phase: Engagement Sustainment
+   A. Deciding what things are needed (Business, Commerce & Management)
+   B. Working with others to share tasks (Law, Education & Public Service)
+   C. Making the event look colorful and fun (Arts, Humanities & Creative Studies)
+   D. Making sure everyone is safe and comfortable (Healthcare & Life Sciences)
+
+10. You enjoy solving simple puzzles often. Why do you keep solving them?
+    Phase: Engagement Sustainment
+    A. Finding patterns to solve them faster (Science & Research)
+    B. Figuring out how pieces fit together (Engineering, Technology & Computer Science)
+    C. Feeling calm and focused while solving (Healthcare & Life Sciences)
+    D. Learning new puzzle tricks from others (Law, Education & Public Service)
+
+11. You like playing shop with friends. What keeps you playing?
+    Phase: Engagement Sustainment
+    A. Pretending to buy and sell items (Business, Commerce & Management)
+    B. Counting items and prices (Science & Research)
+    C. Making the shop look nice (Arts, Humanities & Creative Studies)
+    D. Taking turns and playing fairly (Law, Education & Public Service)
+
+12. You enjoy helping clean your room regularly. What makes you continue?
+    Phase: Engagement Sustainment
+    A. Arranging things in a better order (Engineering, Technology & Computer Science)
+    B. Keeping the space healthy and clean (Healthcare & Life Sciences)
+    C. Learning good habits from adults (Law, Education & Public Service)
+    D. Deciding where things should go (Science & Research)
+
+13. You like observing animals or birds daily. Why does it interest you?
+    Phase: Engagement Sustainment
+    A. Watching their behavior closely (Science & Research)
+    B. Making sure they are safe (Healthcare & Life Sciences)
+    C. Drawing or describing what you see (Arts, Humanities & Creative Studies)
+    D. Learning about them in school (Law, Education & Public Service)
+
+14. You enjoy using simple tools like scissors or rulers. What keeps you using them?
+    Phase: Engagement Sustainment
+    A. Using them correctly and safely (Healthcare & Life Sciences)
+    B. Making accurate shapes or lines (Engineering, Technology & Computer Science)
+    C. Measuring and comparing lengths (Science & Research)
+    D. Creating neat crafts (Arts, Humanities & Creative Studies)
+
+15. You like helping to manage class materials. Why do you continue?
+    Phase: Engagement Sustainment
+    A. Keeping track of items properly (Business, Commerce & Management)
+    B. Organizing materials neatly (Engineering, Technology & Computer Science)
+    C. Making sure everyone gets what they need (Law, Education & Public Service)
+    D. Keeping the items clean (Healthcare & Life Sciences)
+
+16. You enjoy practicing a song or rhyme many times. What keeps you practicing?
+    Phase: Engagement Sustainment
+    A. Remembering words and rhythm better (Arts, Humanities & Creative Studies)
+    B. Learning from teachers or friends (Law, Education & Public Service)
+    C. Noticing patterns in sounds (Science & Research)
+    D. Feeling relaxed while practicing (Healthcare & Life Sciences)
+
+17. You like arranging numbers or objects in order. Why do you keep doing it?
+    Phase: Engagement Sustainment
+    A. Finding the correct order each time (Science & Research)
+    B. Improving how fast you arrange them (Engineering, Technology & Computer Science)
+    C. Keeping everything neat (Healthcare & Life Sciences)
+    D. Learning new methods from class (Law, Education & Public Service)
+
+18. You enjoy helping to prepare snacks. What makes you stay interested?
+    Phase: Engagement Sustainment
+    A. Following steps carefully (Science & Research)
+    B. Using tools properly (Engineering, Technology & Computer Science)
+    C. Keeping food clean and healthy (Healthcare & Life Sciences)
+    D. Sharing food with others (Business, Commerce & Management)
+
+
+1. When you think about activities you enjoy most, which one feels right for you?
+   Phase: Personal Relevance Formation
+   A. Building or fixing things on your own (Engineering, Technology & Computer Science)
+   B. Finding answers to questions you are curious about (Science & Research)
+   C. Helping others stay healthy or safe (Healthcare & Life Sciences)
+   D. Drawing, coloring, or making crafts (Arts, Humanities & Creative Studies)
+
+2. At school, which task do you feel proud doing well?
+   Phase: Personal Relevance Formation
+   A. Solving number or logic problems (Science & Research)
+   B. Using tools or materials carefully (Engineering, Technology & Computer Science)
+   C. Helping classmates or following class rules (Law, Education & Public Service)
+   D. Making charts, posters, or decorations (Arts, Humanities & Creative Studies)
+
+3. If you could choose a classroom role, which would you like most?
+   Phase: Personal Relevance Formation
+   A. Organizing materials and supplies (Business, Commerce & Management)
+   B. Explaining lessons to others (Law, Education & Public Service)
+   C. Checking that everyone is safe (Healthcare & Life Sciences)
+   D. Designing how the classroom looks (Arts, Humanities & Creative Studies)
+
+4. When you play with friends, what do you like doing again and again?
+   Phase: Personal Relevance Formation
+   A. Making up stories or games (Arts, Humanities & Creative Studies)
+   B. Setting rules and helping everyone follow them (Law, Education & Public Service)
+   C. Planning what to play and what is needed (Business, Commerce & Management)
+   D. Making sure no one gets hurt (Healthcare & Life Sciences)
+
+5. Which kind of homework feels easiest for you?
+   Phase: Personal Relevance Formation
+   A. Experiments or finding facts (Science & Research)
+   B. Writing or drawing creatively (Arts, Humanities & Creative Studies)
+   C. Step-by-step building or arranging tasks (Engineering, Technology & Computer Science)
+   D. Lessons about helping people or the community (Law, Education & Public Service)
+
+6. When someone asks for help, what do you usually like helping with?
+   Phase: Personal Relevance Formation
+   A. Explaining how something works (Engineering, Technology & Computer Science)
+   B. Helping them understand a lesson (Law, Education & Public Service)
+   C. Taking care of them when they feel unwell (Healthcare & Life Sciences)
+   D. Organizing their things (Business, Commerce & Management)
+
+7. Which activity makes you feel confident doing on your own?
+   Phase: Personal Relevance Formation
+   A. Measuring, counting, or sorting items (Science & Research)
+   B. Creating pictures or crafts (Arts, Humanities & Creative Studies)
+   C. Using tools or gadgets carefully (Engineering, Technology & Computer Science)
+   D. Keeping places clean and safe (Healthcare & Life Sciences)
+
+8. If you could choose a club, which sounds most interesting to you?
+   Phase: Personal Relevance Formation
+   A. A building or puzzle club (Engineering, Technology & Computer Science)
+   B. A nature or science club (Science & Research)
+   C. A drawing or music club (Arts, Humanities & Creative Studies)
+   D. A helping or volunteering club (Law, Education & Public Service)
+
+9. What kind of responsibility do you enjoy having?
+   Phase: Personal Relevance Formation
+   A. Keeping track of class items (Business, Commerce & Management)
+   B. Making sure everyone follows rules (Law, Education & Public Service)
+   C. Watching for safety issues (Healthcare & Life Sciences)
+   D. Fixing or arranging things (Engineering, Technology & Computer Science)
+
+10. When learning something new, what helps you most?
+    Phase: Personal Relevance Formation
+    A. Trying it step by step (Engineering, Technology & Computer Science)
+    B. Asking questions and finding answers (Science & Research)
+    C. Seeing pictures or drawings (Arts, Humanities & Creative Studies)
+    D. Listening to guidance from teachers (Law, Education & Public Service)
+
+11. Which activity do you choose during free time at school?
+    Phase: Personal Relevance Formation
+    A. Reading or learning new facts (Science & Research)
+    B. Playing shop or organizing games (Business, Commerce & Management)
+    C. Drawing, singing, or acting (Arts, Humanities & Creative Studies)
+    D. Helping others play safely (Healthcare & Life Sciences)
+
+12. What makes you feel useful in class?
+    Phase: Personal Relevance Formation
+    A. Solving problems others find hard (Science & Research)
+    B. Setting up or arranging materials (Engineering, Technology & Computer Science)
+    C. Supporting classmates kindly (Healthcare & Life Sciences)
+    D. Helping teachers or classmates learn (Law, Education & Public Service)
+
+13. When working in a group, what role feels best for you?
+    Phase: Personal Relevance Formation
+    A. Planning what needs to be done (Business, Commerce & Management)
+    B. Making creative ideas for the group (Arts, Humanities & Creative Studies)
+    C. Checking facts or answers (Science & Research)
+    D. Making sure everyone follows rules (Law, Education & Public Service)
+
+14. What kind of task do you want to get better at?
+    Phase: Personal Relevance Formation
+    A. Building or assembling things (Engineering, Technology & Computer Science)
+    B. Learning how the world works (Science & Research)
+    C. Caring for people or animals (Healthcare & Life Sciences)
+    D. Managing or organizing activities (Business, Commerce & Management)
+
+15. When you imagine yourself doing well in school, what are you doing?
+    Phase: Personal Relevance Formation
+    A. Creating artwork or performances (Arts, Humanities & Creative Studies)
+    B. Solving questions and puzzles (Science & Research)
+    C. Leading or helping others learn (Law, Education & Public Service)
+    D. Making sure tasks are planned and completed (Business, Commerce & Management)
+
+
+1. If you could practice one activity every day because you love it, what would it be?
+   Phase: Passion-Driven Mastery
+   A. Building models or fixing simple things (Engineering, Technology & Computer Science)
+   B. Drawing, painting, or creating art (Arts, Humanities & Creative Studies)
+   C. Learning new facts and asking many questions (Science & Research)
+   D. Helping others learn or follow rules (Law, Education & Public Service)
+
+2. What kind of work do you want to become really good at over time?
+   Phase: Passion-Driven Mastery
+   A. Taking care of people, plants, or animals (Healthcare & Life Sciences)
+   B. Planning games or activities for others (Business, Commerce & Management)
+   C. Making creative projects better each time (Arts, Humanities & Creative Studies)
+   D. Understanding how things work step by step (Engineering, Technology & Computer Science)
+
+3. When you imagine growing better at something, what excites you most?
+   Phase: Passion-Driven Mastery
+   A. Discovering answers through learning and testing (Science & Research)
+   B. Helping others feel safe and well (Healthcare & Life Sciences)
+   C. Leading a group or teaching younger kids (Law, Education & Public Service)
+   D. Organizing tasks and making plans work (Business, Commerce & Management)
+
+4. Which activity would you enjoy practicing again and again?
+   Phase: Passion-Driven Mastery
+   A. Solving puzzles or tricky questions (Science & Research)
+   B. Creating stories, drawings, or music (Arts, Humanities & Creative Studies)
+   C. Building or improving simple machines or toys (Engineering, Technology & Computer Science)
+   D. Making sure everyone plays fair (Law, Education & Public Service)
+
+5. If you were praised for being very good at something, what would you want it to be?
+   Phase: Passion-Driven Mastery
+   A. Caring for people when they need help (Healthcare & Life Sciences)
+   B. Running activities smoothly and neatly (Business, Commerce & Management)
+   C. Making creative ideas come alive (Arts, Humanities & Creative Studies)
+   D. Learning and sharing new knowledge (Science & Research)
+
+6. What skill would you like to keep improving as you grow?
+   Phase: Passion-Driven Mastery
+   A. Using tools and materials carefully (Engineering, Technology & Computer Science)
+   B. Teaching or guiding others kindly (Law, Education & Public Service)
+   C. Keeping people healthy and safe (Healthcare & Life Sciences)
+   D. Planning and managing tasks well (Business, Commerce & Management)

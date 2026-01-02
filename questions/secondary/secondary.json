@@ -1,0 +1,1997 @@
+[
+  {
+    "question_id": "SEC_Q1",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you hear about a new invention, what makes you curious first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How it is designed and built",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "What problem it solves using science",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How it might improve people’s lives",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How it could change daily life or society",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q2",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you visit a science exhibition, which section do you go to first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Interactive machines or robots",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Experiments and discoveries",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Health, fitness, or human body displays",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Information about how discoveries help communities",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q3",
+    "interest_phase": "Curiosity Activation",
+    "question": "When watching a movie or show, what grabs your attention most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "The visuals, music, or storytelling",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The science or logic behind the story",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How characters plan or run things",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "The rules, leadership, or fairness shown",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q4",
+    "interest_phase": "Curiosity Activation",
+    "question": "If your school announces a new club, which one sounds interesting?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Coding or robotics club",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Art, drama, or music club",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Health or fitness club",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Student council or leadership club",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q5",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you see a problem around you, what do you wonder first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How it can be fixed or improved",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Why it happens in the first place",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How it affects people’s well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How it can be managed or organized better",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q6",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you read an article online, which topic do you click on first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "New technology or gadgets",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific discoveries or space news",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative works or cultural stories",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Business ideas or success stories",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q7",
+    "interest_phase": "Curiosity Activation",
+    "question": "When learning something new, what makes you want to know more?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding how systems work together",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Finding patterns or explanations",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Expressing ideas in your own way",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Seeing how it helps people or society",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q8",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you could visit any workplace for a day, where would you go?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "A tech lab or workshop",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "A research center or laboratory",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "A hospital or health center",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "A business office or startup",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q9",
+    "interest_phase": "Curiosity Activation",
+    "question": "When playing a strategy game, what part excites you most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Planning and managing resources",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Understanding rules and fair play",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Solving logical challenges",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Designing structures or tools in the game",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q10",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you join a group project, what are you curious to try?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Creating visuals or presentations",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Organizing tasks and timelines",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Researching facts and data",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure the project helps others",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q11",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you hear about a new app, what do you want to explore?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "How the app is built and coded",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "The idea or creativity behind it",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "How people might use or buy it",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Whether it is safe and healthy to use",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q12",
+    "interest_phase": "Curiosity Activation",
+    "question": "If your school plans an event, what part interests you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Designing posters or performances",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Managing money and planning activities",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making sure rules are followed",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Ensuring safety and well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q13",
+    "interest_phase": "Curiosity Activation",
+    "question": "When you read about a famous person, what do you focus on?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Their discoveries or inventions",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Their leadership or service to society",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Their creative work or expression",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How they built successful organizations",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q14",
+    "interest_phase": "Curiosity Activation",
+    "question": "If you could learn a new skill just for fun, what would it be?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Coding or building something useful",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Painting, writing, or performing",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning about the human body or health",
+        "domains": {
+          "Healthcare & Life Sciences": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding how businesses work",
+        "domains": {
+          "Business, Commerce & Management": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q15",
+    "interest_phase": "Curiosity Activation",
+    "question": "When thinking about the future, what topic makes you curious?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "New technologies and machines",
+        "domains": {
+          "Engineering, Technology & Computer Science": 1
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Scientific discoveries yet to be made",
+        "domains": {
+          "Science & Research": 1
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative ideas shaping culture",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 1
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "How societies are governed and improved",
+        "domains": {
+          "Law, Education & Public Service": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q16",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When you work on a project for many days, what keeps you interested?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Improving how it is built or functions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Testing ideas and checking results",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making it useful or meaningful for others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Managing tasks and deadlines",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q17",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which school activity do you enjoy spending extra time on?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving technical or coding problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Drawing, designing, or performing",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning how the body or mind works",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizing events or group work",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q18",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When learning something challenging, what helps you stay focused?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Understanding the logic behind it",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Practicing step by step until it works",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Seeing how it helps people",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Explaining it to others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q19",
+    "interest_phase": "Engagement Sustainment",
+    "question": "If you join a club, why do you keep going regularly?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "You enjoy building or experimenting",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "You like creating and expressing ideas",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "You feel useful helping others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "You enjoy planning and organizing activities",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q20",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When reading or watching content, what makes you continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Interesting facts and explanations",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Strong visuals, stories, or performances",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Ideas about improving health or well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Lessons about leadership or teamwork",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q21",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What type of assignment do you usually complete with care?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Research-based or experiment tasks",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creative writing or design tasks",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Planning or budgeting tasks",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Teaching or helping-based tasks",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q22",
+    "interest_phase": "Engagement Sustainment",
+    "question": "During group work, what role do you like to continue doing?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Checking accuracy and data",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Handling tools or technical parts",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Coordinating people and tasks",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone feels included",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q23",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When practicing a skill, what makes you want to improve?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Seeing clear progress and results",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning deeper reasons behind it",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Expressing yourself better",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Helping others through it",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q24",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which topic do you find yourself returning to?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "New technologies or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Health, fitness, or mental well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Social issues or community work",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Business ideas or planning strategies",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q25",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What kind of feedback motivates you to keep going?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "That your solution works well",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "That your explanation is accurate",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "That your creativity stands out",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "That your work helped others",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q26",
+    "interest_phase": "Engagement Sustainment",
+    "question": "If you spend free time learning online, what do you continue watching?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Tutorials on building or coding",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Videos explaining science concepts",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creative or cultural content",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Talks on leadership or education",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q27",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When organizing an event, what part do you enjoy most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Planning schedules and budgets",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Designing posters or performances",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making sure everyone stays safe",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Coordinating volunteers and roles",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q28",
+    "interest_phase": "Engagement Sustainment",
+    "question": "What makes you stick with a difficult subject?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Enjoying problem-solving challenges",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Applying concepts to real tools or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Knowing it helps people’s lives",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Seeing how it shapes society",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q29",
+    "interest_phase": "Engagement Sustainment",
+    "question": "When leading a small task, what do you like doing repeatedly?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Planning and managing work",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Checking details and accuracy",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Supporting team members",
+        "domains": {
+          "Healthcare & Life Sciences": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Teaching or guiding others",
+        "domains": {
+          "Law, Education & Public Service": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q30",
+    "interest_phase": "Engagement Sustainment",
+    "question": "Which type of improvement feels satisfying to you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Making a system faster or better",
+        "domains": {
+          "Engineering, Technology & Computer Science": 2
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning new facts clearly",
+        "domains": {
+          "Science & Research": 2
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Improving creative quality",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 2
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Running activities more smoothly",
+        "domains": {
+          "Business, Commerce & Management": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q31",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which school subject feels most connected to who you are?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Subjects where you build or work with technology",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Subjects where you explore facts and explanations",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Subjects where you express ideas creatively",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Subjects about society, rules, or leadership",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q32",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you imagine doing well in the future, what are you usually doing?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Designing or improving systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Discovering or understanding new knowledge",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Helping people stay healthy or supported",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leading or guiding others",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q33",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of task makes you feel confident in your abilities?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving technical or logical problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Researching and explaining answers",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Organizing people or resources",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Creating meaningful content or designs",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q34",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity feels most like “your strength”?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Working with tools, machines, or code",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Observing patterns and analyzing data",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Communicating ideas through art or writing",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Supporting others’ learning or growth",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q35",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When choosing how to spend your free time, what feels most natural?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Exploring new technology or software",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Reading or watching science-related content",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Practicing creative skills",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Planning activities or projects",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q36",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which type of responsibility do you enjoy having?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Managing tasks or schedules",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Checking accuracy and quality",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Ensuring safety and well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Maintaining rules or fairness",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q37",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of success feels meaningful to you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Creating something that works well",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Understanding something deeply",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making a positive impact on others",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Achieving creative recognition",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q38",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When you work in a group, what role feels right for you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Handling technical or digital parts",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Planning and coordinating the work",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Researching information",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Making sure everyone is treated fairly",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q39",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which kind of learning motivates you the most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Learning by building or testing",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning by questioning and proving",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Learning through creativity and expression",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Learning by teaching or guiding others",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q40",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of problem do you care most about solving?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical or system-related problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Problems related to health or well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Social or community issues",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Organizational or planning problems",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q41",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which achievement would make you feel proud?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Inventing or improving a tool",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Making a scientific discovery or explanation",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Helping someone improve their health or life",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leading a successful project or team",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q42",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When learning becomes difficult, why do you continue?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "You enjoy mastering complex systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "You want accurate understanding",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "You want to improve creative quality",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "You want to help others through knowledge",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q43",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which environment feels most comfortable for you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Workshops or labs",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Research or study spaces",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Studios or creative spaces",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Community or service settings",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q44",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of contribution do you value making?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Practical and efficient solutions",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Accurate and reliable information",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Care and support for people",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Clear organization and leadership",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q45",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "Which activity gives you a sense of purpose?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Improving systems or processes",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning about life and health",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Expressing ideas that move others",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Teaching or mentoring",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q46",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When making choices, what do you trust most?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Logic and functionality",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Evidence and facts",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Empathy and care",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Structure and planning",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q47",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "What kind of long-term effort feels worth it to you?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Becoming skilled with technology",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Gaining deep scientific understanding",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Building creative mastery",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Developing leadership or service skills",
+        "domains": {
+          "Law, Education & Public Service": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q48",
+    "interest_phase": "Personal Relevance Formation",
+    "question": "When people ask what you are good at, what do you think of first?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Technical or problem-solving skills",
+        "domains": {
+          "Engineering, Technology & Computer Science": 3
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Researching and explaining ideas",
+        "domains": {
+          "Science & Research": 3
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Organizing and managing work",
+        "domains": {
+          "Business, Commerce & Management": 3
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Caring for and supporting others",
+        "domains": {
+          "Healthcare & Life Sciences": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q49",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "If you chose one skill to deeply master over several years, what would it be?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Designing and improving technology or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Investigating questions and discovering new knowledge",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Creating meaningful art or performances",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Leading and serving communities responsibly",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q50",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of work would you willingly practice even when it gets difficult?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Solving complex technical problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Conducting experiments or deep analysis",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Managing projects and making plans succeed",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Supporting people’s health and well-being",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q51",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When you imagine being known for something in the future, what is it?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Building reliable tools or systems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Producing original creative work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Making discoveries or strong explanations",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Teaching, guiding, or leading others",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q52",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which challenge would you enjoy improving at step by step?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Running teams or organizations effectively",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Learning advanced technology or coding skills",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Mastering creative techniques",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Understanding health, life, or the human body deeply",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q53",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of long-term goal feels exciting rather than tiring?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Becoming highly skilled in research or analysis",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating work that influences culture or thinking",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Building systems that solve real problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Improving how organizations or businesses operate",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q54",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "If you had to choose one area to keep learning even outside school, which would it be?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Advanced science topics and discoveries",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Health, medicine, or caring professions",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leadership, law, or public service",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Technology, machines, or software",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q55",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "What kind of impact would make you feel proud after years of effort?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Helping people live healthier lives",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Creating successful systems or products",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Leading meaningful social or educational change",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Expressing ideas that inspire others",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q56",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "Which skill would you want others to trust you as an expert in?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Analyzing data and evidence carefully",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Managing resources and decisions wisely",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Designing creative or artistic work",
+        "domains": {
+          "Arts, Humanities & Creative Studies": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Solving technical or system-level problems",
+        "domains": {
+          "Engineering, Technology & Computer Science": 4
+        }
+      }
+    ]
+  },
+  {
+    "question_id": "SEC_Q57",
+    "interest_phase": "Passion-Driven Mastery",
+    "question": "When you think about working hard for many years, what feels most meaningful?",
+    "options": [
+      {
+        "option_code": "Opt_1",
+        "text": "Discovering and sharing knowledge",
+        "domains": {
+          "Science & Research": 4
+        }
+      },
+      {
+        "option_code": "Opt_2",
+        "text": "Caring for people and improving lives",
+        "domains": {
+          "Healthcare & Life Sciences": 4
+        }
+      },
+      {
+        "option_code": "Opt_3",
+        "text": "Building and running effective organizations",
+        "domains": {
+          "Business, Commerce & Management": 4
+        }
+      },
+      {
+        "option_code": "Opt_4",
+        "text": "Serving society through leadership or education",
+        "domains": {
+          "Law, Education & Public Service": 4
+        }
+      }
+    ]
+  }
+]
