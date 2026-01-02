@@ -102,7 +102,7 @@ def explain_prediction(scores, labels):
 # =========================
 from simulate_user import real_user_response, simulate_user_response
 
-record = real_user_response(4)
+record = real_user_response(5)
 my_prediction = predict_user(record[1:])
 print(f"\nPredicted domain scores for {record[0]}: ", my_prediction)
 
